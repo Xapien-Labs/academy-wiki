@@ -1,0 +1,28 @@
+# Progress Tracking :
+
+# Promising Areas :
+
+## What is the criteria ?
+
+1. Acceleration of Research Possible
+2. Impactful and Feasible
+3. Interest from Startups and VCs
+4. Ranking based on a Calculated Score
+
+##
+
+# Subdomains
+
+## Networking
+
+## Theoretical CS
+
+## Databases
+
+## OS
+
+## Cloud and Edge Computing
+
+# Big Goals of the Domains :
+
+# Curated Pathway to Learning :

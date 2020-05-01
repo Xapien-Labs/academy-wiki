@@ -1,0 +1,3 @@
+https://ocw.mit.edu/courses/urban-studies-and-planning/11-123-big-plans-and-mega-urban-landscapes-spring-2014/assignments/ | Assignments | Big Plans and Mega-Urban Landscapes | Urban Studies and Planning | MIT OpenCourseWare
+https://ocw.mit.edu/courses/edgerton-center/ec-701j-d-lab-i-development-fall-2009/ | D-Lab I: Development | Edgerton Center | MIT OpenCourseWare
+https://ocw.mit.edu/courses/architecture/4-163j-urban-design-studio-providence-spring-2005/ | Urban Design Studio: Providence | Architecture | MIT OpenCourseWare
