@@ -1,5 +1,7 @@
 # Progress Tracking :
 
+---
+
 # Promising Areas :
 
 ## What is the criteria ?
@@ -10,64 +12,105 @@
 4. Ranking based on a Calculated Score
 5. Low Resources in Getting Started
 
+---
+
 # Curated Pathway to Learning :
+
+---
 
 # Bottlenecks :
 
+---
+
 # Big Goals of the Domains :
 
-# How can you Contribute ? :
+---
+
+---
+
+## Goal 1:
+
+---
+
+### Top Researchers :
+
+---
+
+### Review Papers :
+
+---
+
+### Startups :
+
+---
+
+### Bottlenecks :
+
+---
+
+### Curated Pathway to Learning :
+
+---
+
+### Resources Required in Getting Started
+
+---
+
+### Open Ideas :
+
+#### How can you Contribute ? :
 
 1. Add your Proposal
 2. Demand a Funding Goal
 3. Do Research
+4. Resources Required ? How to Procure
 
-## Reverse Aging:
+---
 
-### Top Researchers :
+---
 
-### Review Papers :
+# Learning Guide
 
-### Startups :
+---
 
-### Bottlenecks :
-
-### Curated Pathway to Learning :
-
-### Resources Required in Getting Started
-
-### Open Ideas
-
-## Find a Cure for Diseases:
-
-### Top Researchers :
-
-### Review Papers :
-
-### Startups :
-
-### Bottlenecks :
-
-### Curated Pathway to Learning :
-
-### Open Ideas
-
-## Map Genes of all Humans:
-
-## Proteomic Mapping:
-
-# Levels
+---
 
 ## Just Curious
 
+---
+
 ## Basic
+
+---
 
 ## Advanced
 
-# Build
+---
+
+---
 
 # Problems and Snares
 
-# Jobs Available
+---
 
-# Jobs According to the Skills
+---
+
+# Tests and Indicators of Potential
+
+---
+
+---
+
+# Careers
+
+## Internships
+
+---
+
+## Jobs Available
+
+---
+
+## Jobs According to the Skills
+
+---
