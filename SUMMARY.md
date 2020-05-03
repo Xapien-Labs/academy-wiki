@@ -44,7 +44,7 @@
     - [Devops](_domains/_dev/devs.md)
     - [Architect and System Design](_domains/_dev/devs.md)
     - [DataOps](_domains/_dev/devs.md)
-  - [XR](_domains/_dev/_xr/xr.md)
+  - [Mixed Reality (AR/VR)](_domains/_dev/_xr/xr.md)
 
 - [Artificial Intelligence](_domains/_ai/ai.md)
 
