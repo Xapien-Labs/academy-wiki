@@ -55,11 +55,13 @@
   - [Cognitive Sciences](_domains/_ai/ai.md)
 
 - [CS](_domains/_eng/_cs/cs.md)
-
+  - [Data Science](_domains/_eng/_cs/cs.md)
+  - [Programming Languages](_domains/_eng/_cs/cs.md)
   - [Data Structures](_domains/_eng/_cs/cs.md)
   - [Algorithms](_domains/_eng/_cs/cs.md)
   - [Computer Architecture](_domains/_eng/_cs/cs.md)
-  - [Programming Languages](_domains/_eng/_cs/cs.md)
+  - [Operating Systems](_domains/_eng/_cs/cs.md)
+  - [Compilers](_domains/_eng/_cs/cs.md)
   - [Databases](_domains/_eng/_cs/cs.md)
   - [Networking](_domains/_eng/_cs/cs.md)
   - [Distributed Systems](_domains/_eng/_cs/cs.md)
