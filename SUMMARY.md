@@ -1,7 +1,7 @@
 # Summary
 
 - [Introduction](README.md)
-- [Bio](_domains/_bio/bio.md)
+- [Biology](_domains/_bio/bio.md)
   - [Basic](_domains/_bio/_basic/basic.md)
   - [Build](_domains/_bio/_build/build.md)
     - [Aging](_domains/_bio/_build/aging.md)
