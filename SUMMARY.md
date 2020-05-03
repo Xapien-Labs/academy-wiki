@@ -53,6 +53,20 @@
   - [RL](_domains/_ai/ai.md)
   - [Cognitive Sciences](_domains/_ai/ai.md)
 
+- [CS](_domains/_eng/_cs/cs.md)
+
+  - [Data Structures](_domains/_eng/_cs/cs.md)
+  - [Algorithms](_domains/_eng/_cs/cs.md)
+  - [Computer Architecture](_domains/_eng/_cs/cs.md)
+  - [Programming Languages](_domains/_eng/_cs/cs.md)
+  - [Databases](_domains/_eng/_cs/cs.md)
+  - [Networking](_domains/_eng/_cs/cs.md)
+  - [Distributed Systems](_domains/_eng/_cs/cs.md)
+  - [Computer Graphics](_domains/_eng/_cs/cs.md)
+  - [Theory Automata](_domains/_eng/_cs/cs.md)
+  - [Cloud Computing](_domains/_eng/_cs/cs.md)
+  - [Quantum Computing](_domains/_eng/_misc/misc.md)
+
 * [Enginering](_domains/_eng/eng.md)
 
   - [Build](_domains/_eng/_build/build.md)
@@ -68,67 +82,53 @@
     - [QuantumComputer](_domains/_eng/_build/build.md)
     - [Starship](_domains/_eng/_build/build.md)
 
-  - [CS](_domains/_eng/_cs/cs.md)
+- [Materials](_domains/_eng/_materials/materials.md)
 
-    - [Data Structures](_domains/_eng/_cs/cs.md)
-    - [Algorithms](_domains/_eng/_cs/cs.md)
-    - [Computer Architecture](_domains/_eng/_cs/cs.md)
-    - [Programming Languages](_domains/_eng/_cs/cs.md)
-    - [Databases](_domains/_eng/_cs/cs.md)
-    - [Networking](_domains/_eng/_cs/cs.md)
-    - [Distributed Systems](_domains/_eng/_cs/cs.md)
-    - [Computer Graphics](_domains/_eng/_cs/cs.md)
-    - [Theory Automata](_domains/_eng/_cs/cs.md)
-    - [Cloud Computing](_domains/_eng/_cs/cs.md)
-    - [Quantum Computing](_domains/_eng/_misc/misc.md)
+  - [Graphene](_domains/_eng/_materials/materials.md)
+  - [2D Materials](_domains/_eng/_materials/materials.md)
+  - [MXenes](_domains/_eng/_materials/materials.md)
 
-  * [Materials](_domains/_eng/_materials/materials.md)
+- [Misc](_domains/_eng/_misc/misc.md)
 
-    - [Graphene](_domains/_eng/_materials/materials.md)
-    - [2-D Materials](_domains/_eng/_materials/materials.md)
-    - [MXenes](_domains/_eng/_materials/materials.md)
+  - [3D-Printing](_domains/_eng/_misc/misc.md)
+  - [Biomedical Engineering](_domains/_eng/_misc/misc.md)
+  - [Civil Engineering](_domains/_eng/_misc/misc.md)
+  - [Mechanical Engineering](_domains/_eng/_misc/misc.md)
+  - [Photonics](_domains/_eng/_misc/misc.md)
+  - [Aerospace Engineering](_domains/_eng/_misc/misc.md)
+  - [Electrical and Power Engineering](_domains/_eng/_misc/misc.md)
 
-  * [Misc](_domains/_eng/_misc/misc.md)
+- [Robotics](_domains/_eng/_robotics/robotics.md)
 
-    - [3dPrinting](_domains/_eng/_misc/misc.md)
-    - [Biomedical Engineering](_domains/_eng/_misc/misc.md)
-    - [Civil Engineering](_domains/_eng/_misc/misc.md)
-    - [Mechanical Engineering](_domains/_eng/_misc/misc.md)
-    - [Photonics](_domains/_eng/_misc/misc.md)
-    - [Aerospace Engineering](_domains/_eng/_misc/misc.md)
-    - [Electrical and Power Engineering](_domains/_eng/_misc/misc.md)
+  - [Embedded](_domains/_eng/_robotics/robotics.md)
+  - [Control](_domains/_eng/_robotics/robotics.md)
 
-  * [Robotics](_domains/_eng/_robotics/robotics.md)
+- [Semiconductor Industry](_domains/_eng/_semi/semi.md)
 
-    - [Embedded](_domains/_eng/_robotics/robotics.md)
-    - [Control](_domains/_eng/_robotics/robotics.md)
+  - [Tools](_domains/_eng/_semi/semi.md)
+  - [Digital](_domains/_eng/_semi/semi.md)
+  - [Analog and RF-IC](_domains/_eng/_semi/semi.md)
+  - [SoC and Mixel Signal](_domains/_eng/_semi/semi.md)
+  - [Fabrication](_domains/_eng/_semi/semi.md)
+  - [Emerging Technologies](_domains/_eng/_semi/semi.md)
 
-  * [Semiconductor Industry](_domains/_eng/_semi/semi.md)
+- [TeleCommunications](_domains/_eng/eng.md)
 
-    - [Tools](_domains/_eng/_semi/semi.md)
-    - [Digital](_domains/_eng/_semi/semi.md)
-    - [Analog and RF-IC](_domains/_eng/_semi/semi.md)
-    - [SoC and Mixel Signal](_domains/_eng/_semi/semi.md)
-    - [Fabrication](_domains/_eng/_semi/semi.md)
-    - [Emerging Technologies](_domains/_eng/_semi/semi.md)
+  - Information Theory
+  - Graph Theory
 
-  * [Telecom](_domains/_eng/eng.md)
+- [Skills](_domains/_eng/eng.md)
 
-    - Information Theory
-    - Graph Theory
+* [Architecture and Planning](_domains/_misc/architecture/architecture.md)
 
-  * [Skills](_domains/_eng/eng.md)
+* [Education](_domains/_misc/learning/books.md)
 
-- [Architecture](_domains/_misc/architecture/architecture.md)
-
-- [Education](_domains/_misc/learning/books.md)
-
-- [Governance](_domains/_misc/governance/governance.md)
+* [Governance](_domains/_misc/governance/governance.md)
 
   - [Public Policy](_domains/_misc/governance/publicpolicy.md)
   - [Economics](_domains/_misc/governance/economics.md)
 
-- [Misc](_domains/_misc/misc.md)
+* [Misc](_domains/_misc/misc.md)
 
   - [Collaboration](_domains/_misc/general/collaboration.md)
   - [Human Behaviour](_domains/_misc/general/humanbehaviour.md)
@@ -137,15 +137,15 @@
   - [Communication](_domains/_misc/general/communication.md)
   - [EmotionalQ](_domains/_misc/general/emotionalq.md)
 
-* [Business](_domains/_startups/startups.md)
+- [Business](_domains/_startups/startups.md)
 
   - [Startups](_domains/_startups/startups.md)
     - [Product Management](_domains/_startups/startups.md)
   - [Finance](_domains/_startups/startups.md)
 
-* [Accounting and Commerce](_domains/_misc/_commerce/accounting.md)
+- [Accounting and Commerce](_domains/_misc/_commerce/accounting.md)
 
-- [Social](_domains/_misc/social/social.md)
+* [Social](_domains/_misc/social/social.md)
 
   - [Civics](_domains/_misc/social/social.md)
   - [Culture](_domains/_misc/social/social.md)
@@ -155,23 +155,23 @@
   - [Language](_domains/_misc/social/social.md)
   - [Law](_domains/_misc/social/social.md)
 
-- [Arts](_domains/_misc/arts/arts.md)
+* [Arts](_domains/_misc/arts/arts.md)
 
   - [Video Tools](_domains/_misc/arts/video.md)
   - [Film/Movies/Documentary](_domains/_misc/arts/video.md)
   - [TV-Series](_domains/_misc/arts/video.md)
 
-- [Literature](_domains/_misc/literature/literature.md)
+* [Literature](_domains/_misc/literature/literature.md)
 
   - [Journalism](_domains/_misc/literature/literature.md)
   - [Writing](_domains/_misc/literature/literature.md)
   - [Classics](_domains/_misc/literature/literature.md)
 
-- [Earth Sciences and Environment](_domains/_environment/environment.md)
+* [Earth Sciences and Environment](_domains/_environment/environment.md)
 
   - [Climate Change](_domains/_environment/climate.md)
 
-- [Physics](_domains/_physics/physics.md)
+* [Physics](_domains/_physics/physics.md)
 
   - [Basic](_domains/_physics/_basic/basic.md)
 
@@ -186,13 +186,13 @@
     - [High Energy](_domains/_physics/_misc/highenergy.md)
     - [Plasma](_domains/_physics/_misc/plasma.md)
 
-- [Maths](_domains/_maths/maths.md)
+* [Maths](_domains/_maths/maths.md)
 
   - [Basic](_domains/_maths/_basic/basic.md)
   - [Logic](_domains/_maths/logic.md)
   - [Advanced](_domains/_maths/advanced.md)
 
-- [Chemistry](_domains/_chemistry/chemistry.md)
+* [Chemistry](_domains/_chemistry/chemistry.md)
 
   - [Basic](_domains/_chemistry/_basic/basic.md)
   - [Bio](_domains/_chemistry/_bio/bio.md)
@@ -200,4 +200,4 @@
   - [Methods](_domains/_chemistry/_methods/methods.md)
   - [Organic](_domains/_chemistry/_organic/basic.md)
 
-* [Templates](_domains/_templates/templates.md)
+- [Templates](_domains/_templates/templates.md)
