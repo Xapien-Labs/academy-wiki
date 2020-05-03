@@ -45,7 +45,7 @@
     - [DataOps](_domains/_dev/devs.md)
   - [XR](_domains/_dev/_xr/xr.md)
 
-- [AI](_domains/_ai/ai.md)
+- [Artificial Intelligence](_domains/_ai/ai.md)
 
   - [Vision](_domains/_ai/ai.md)
   - [NLP](_domains/_ai/ai.md)
@@ -53,7 +53,7 @@
   - [RL](_domains/_ai/ai.md)
   - [Cognitive Sciences](_domains/_ai/ai.md)
 
-* [Eng](_domains/_eng/eng.md)
+* [Enginering](_domains/_eng/eng.md)
 
   - [Build](_domains/_eng/_build/build.md)
 
@@ -113,6 +113,9 @@
     - [Emerging Technologies](_domains/_eng/_semi/semi.md)
 
   * [Telecom](_domains/_eng/eng.md)
+
+    - Information Theory
+    - Graph Theory
 
   * [Skills](_domains/_eng/eng.md)
 
