@@ -55,6 +55,7 @@
   - [Cognitive Sciences](_domains/_ai/ai.md)
 
 - [CS](_domains/_eng/_cs/cs.md)
+  - [Tools](_domains/_eng/_cs/cs.md)
   - [Data Science](_domains/_eng/_cs/cs.md)
   - [Programming Languages](_domains/_eng/_cs/cs.md)
   - [Data Structures](_domains/_eng/_cs/cs.md)
@@ -103,6 +104,7 @@
 
   - [Robotics](_domains/_eng/_robotics/robotics.md)
 
+    - [Skills](_domains/_eng/_robotics/robotics.md)
     - [Embedded](_domains/_eng/_robotics/robotics.md)
     - [Control](_domains/_eng/_robotics/robotics.md)
 
