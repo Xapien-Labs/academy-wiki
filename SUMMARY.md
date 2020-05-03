@@ -32,9 +32,10 @@
   - [Tech](_domains/_bio/_tech/tech.md)
   - [Therapeutics](_domains/_bio/_therapeutics/therapeutics.md)
   - [Vaccines](_domains/_bio/_therapeutics/vaccines.md)
-- [Dev](_domains/_dev/devs.md)
+- [Development](_domains/_dev/devs.md)
 
   - [Design](_domains/_dev/_design/design.md)
+    - [Animation](_domains/_dev/_design/design.md)
   - [Game](_domains/_dev/_game/game_.md)
   - [Web](_domains/_dev/_web/web.md)
     - [Stack and APIs](_domains/_dev/devs.md)
