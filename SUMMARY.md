@@ -48,13 +48,14 @@
 
 - [Artificial Intelligence](_domains/_ai/ai.md)
 
-  - [Vision](_domains/_ai/ai.md)
-  - [NLP](_domains/_ai/ai.md)
-  - [Graph](_domains/_ai/ai.md)
-  - [RL](_domains/_ai/ai.md)
+  - [Classical AI](_domains/_ai/ai.md)
+  - [Computer Vision](_domains/_ai/ai.md)
+  - [Natural Language Processing](_domains/_ai/ai.md)
+  - [Graph Reasoning](_domains/_ai/ai.md)
+  - [Reinforcement Learning](_domains/_ai/ai.md)
   - [Cognitive Sciences](_domains/_ai/ai.md)
 
-- [CS](_domains/_eng/_cs/cs.md)
+- [Computer Science](_domains/_eng/_cs/cs.md)
   - [Tools](_domains/_eng/_cs/cs.md)
   - [Data Science](_domains/_eng/_cs/cs.md)
   - [Programming Languages](_domains/_eng/_cs/cs.md)
@@ -126,7 +127,7 @@
 
 * [Architecture and Planning](_domains/_misc/architecture/architecture.md)
 
-* [Education](_domains/_misc/learning/books.md)
+* [Education](_domains/_misc/cognition/education.md)
 
 * [Governance](_domains/_misc/governance/governance.md)
 
@@ -200,7 +201,7 @@
 * [Chemistry](_domains/_chemistry/chemistry.md)
 
   - [Basic](_domains/_chemistry/_basic/basic.md)
-  - [Bio](_domains/_chemistry/_bio/bio.md)
+  - [Biochemistry](_domains/_chemistry/_bio/bio.md)
   - [Build](_domains/_chemistry/_build/build.md)
   - [Methods](_domains/_chemistry/_methods/methods.md)
   - [Organic](_domains/_chemistry/_organic/basic.md)
