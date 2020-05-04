@@ -87,7 +87,7 @@
     - [QuantumComputer](_domains/_eng/_build/build.md)
     - [Starship](_domains/_eng/_build/build.md)
 
-  - [Materials](_domains/_eng/_materials/materials.md)
+  - [Materials Science](_domains/_eng/_materials/materials.md)
 
     - [Graphene](_domains/_eng/_materials/materials.md)
     - [2D Materials](_domains/_eng/_materials/materials.md)
@@ -109,7 +109,7 @@
     - [Embedded](_domains/_eng/_robotics/robotics.md)
     - [Control](_domains/_eng/_robotics/robotics.md)
 
-  - [Semiconductor Industry](_domains/_eng/_semi/semi.md)
+  - [Semiconductor industry](_domains/_eng/_semi/semi.md)
 
     - [Tools](_domains/_eng/_semi/semi.md)
     - [Digital](_domains/_eng/_semi/semi.md)
@@ -118,7 +118,7 @@
     - [Fabrication](_domains/_eng/_semi/semi.md)
     - [Emerging Technologies](_domains/_eng/_semi/semi.md)
 
-  - [TeleCommunications](_domains/_eng/eng.md)
+  - [Telecommunications industry](_domains/_eng/eng.md)
 
     - Information Theory
     - Graph Theory
