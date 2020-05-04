@@ -72,7 +72,7 @@
   - [Cloud Computing](_domains/_eng/_cs/cs.md)
   - [Quantum Computing](_domains/_eng/_misc/misc.md)
 
-* [Enginering](_domains/_eng/eng.md)
+* [Engineering](_domains/_eng/eng.md)
 
   - [Build](_domains/_eng/_build/build.md)
 
