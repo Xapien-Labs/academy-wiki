@@ -1,6 +1,7 @@
 # Arts Studio
 
-# Dance 
+# Dance
 
 # Drama
 
+# Music
