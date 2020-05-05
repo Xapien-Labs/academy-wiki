@@ -8,4 +8,10 @@
 
 ### Coordinate Geometry
 
-### Misc
+### Graph Theory
+
+### Discrete Mathematics
+
+### Combinatorics
+
+### Number Theory

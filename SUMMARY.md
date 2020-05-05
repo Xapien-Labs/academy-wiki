@@ -121,7 +121,6 @@
   - [Telecommunications industry](_domains/_eng/eng.md)
 
     - Information Theory
-    - Graph Theory
 
   - [Skills](_domains/_eng/eng.md)
 
@@ -197,8 +196,8 @@
 - [Maths](_domains/_maths/maths.md)
 
   - [Basic](_domains/_maths/_basic/basic.md)
-  - [Logic](_domains/_maths/logic.md)
-  - [Advanced](_domains/_maths/advanced.md)
+  - [Logic&Reasoning](_domains/_maths/logic.md)
+  - [Research](_domains/_maths/advanced.md)
 
 - [Chemistry](_domains/_chemistry/chemistry.md)
 
