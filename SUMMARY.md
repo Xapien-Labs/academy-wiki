@@ -194,7 +194,7 @@
     - [High Energy physics](_domains/_physics/_misc/highenergy.md)
     - [Plasma physics](_domains/_physics/_misc/plasma.md)
 
-- [Maths](_domains/_maths/maths.md)
+- [Mathematics](_domains/_maths/maths.md)
 
   - [Basic](_domains/_maths/_basic/basic.md)
   - [Logic&Reasoning](_domains/_maths/logic.md)
