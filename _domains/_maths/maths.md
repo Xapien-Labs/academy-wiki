@@ -13,10 +13,6 @@
 
 # Big Goals of the Domains:
 
-## Optics and Photonics
-
-## Astrophysics
-
 # Curated Pathway to Learning:
 
 ## Math
