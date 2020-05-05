@@ -158,7 +158,8 @@
   - [Geography](_domains/_misc/social/social.md)
   - [History](_domains/_misc/social/social.md)
   - [Language](_domains/_misc/social/social.md)
-  - [Law](_domains/_misc/social/social.md)
+
+- [Law](_domains/_misc/_law/law.md)
 
 * [Media](_domains/_misc/_media/video.md)
 
