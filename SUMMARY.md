@@ -32,7 +32,7 @@
   - [Biotech](_domains/_bio/_tech/tech.md)
   - [Therapeutics](_domains/_bio/_therapeutics/therapeutics.md)
   - [Vaccines](_domains/_bio/_therapeutics/vaccines.md)
-- [Development](_domains/_dev/devs.md)
+- [Devs](_domains/_dev/devs.md)
 
   - [Design](_domains/_dev/_design/design.md)
     - [Animation](_domains/_dev/_design/design.md)
