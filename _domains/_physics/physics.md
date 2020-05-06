@@ -47,3 +47,22 @@
 - [SciShow Space](https://www.youtube.com/user/scishowspace/videos)
 - [StarTalk](https://www.youtube.com/user/startalkradio/videos) - Astrophysicist Neil deGrasse Tyson discuss astronomy, physics, and everything else about life in the universe.
 - [The Science Asylum](https://www.youtube.com/channel/UCXgNowiGxwwnLeQ7DXTwXPg) - At the Science Asylum, we present anything related to science from the point of view of Nick Lucid.
+
+http://catalog.mit.edu/degree-charts/physics-course-8/ | Physics (Course 8) < MIT
+https://ocw.mit.edu/courses/find-by-number/ | Find Courses by Number | MIT OpenCourseWare | Free Online Course Materials
+https://ocw.mit.edu/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/ | Experimental Physics I & II "Junior Lab" | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-033-relativity-fall-2006/ | Relativity | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/ | Quantum Physics I | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/ | Quantum Physics II | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/ | Quantum Physics III | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-044-statistical-physics-i-spring-2013/ | Statistical Physics I | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-08-statistical-physics-ii-spring-2005/ | Statistical Physics II | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-223-classical-mechanics-ii-january-iap-2017/ | Classical Mechanics II | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-09-classical-mechanics-iii-fall-2014/ | Classical Mechanics III | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-901-astrophysics-i-spring-2006/ | Astrophysics I | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-902-astrophysics-ii-fall-2004/ | Astrophysics II | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-942-cosmology-fall-2001/ | Cosmology | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-284-modern-astrophysics-spring-2006/ | Modern Astrophysics | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/physics/8-821-string-theory-fall-2008/ | String Theory | Physics | MIT OpenCourseWare
+https://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2006/ | Introduction to Plasma Physics I | Nuclear Science and Engineering | MIT OpenCourseWare
+https://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2003/ | Introduction to Plasma Physics I | Nuclear Science and Engineering | MIT OpenCourseWare
