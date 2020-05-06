@@ -127,6 +127,11 @@
 
 * [Architecture and Planning](_domains/_misc/architecture/architecture.md)
 
+  - [Architecture](_domains/_misc/architecture/architecture.md)
+  - [Planning](_domains/_misc/architecture/architecture.md)
+  - [Arcology](_domains/_misc/architecture/architecture.md)
+  - [Transportation](_domains/_misc/architecture/architecture.md)
+
 * [Education](_domains/_misc/cognition/education.md)
 
 * [Governance](_domains/_misc/governance/governance.md)
