@@ -157,7 +157,6 @@
   - [Evolution](_domains/_misc/social/social.md)
   - [Geography](_domains/_misc/social/social.md)
   - [History](_domains/_misc/social/social.md)
-  - [Language](_domains/_misc/social/social.md)
 
 - [Law](_domains/_misc/_law/law.md)
 
@@ -174,12 +173,13 @@
 
   - [Writing](_domains/_misc/literature/literature.md)
   - [Classics](_domains/_misc/literature/literature.md)
+  - [Language](_domains/_misc/literature/literature.md)
 
-- [Earth Sciences and Environment](_domains/_environment/environment.md)
+* [Earth Sciences and Environment](_domains/_environment/environment.md)
 
   - [Climate Change](_domains/_environment/climate.md)
 
-- [Physics](_domains/_physics/physics.md)
+* [Physics](_domains/_physics/physics.md)
 
   - [Basic](_domains/_physics/_basic/basic.md)
 
@@ -194,13 +194,13 @@
     - [High Energy physics](_domains/_physics/_misc/highenergy.md)
     - [Plasma physics](_domains/_physics/_misc/plasma.md)
 
-- [Mathematics](_domains/_maths/maths.md)
+* [Mathematics](_domains/_maths/maths.md)
 
   - [Basic](_domains/_maths/_basic/basic.md)
   - [Logic&Reasoning](_domains/_maths/logic.md)
   - [Research](_domains/_maths/advanced.md)
 
-- [Chemistry](_domains/_chemistry/chemistry.md)
+* [Chemistry](_domains/_chemistry/chemistry.md)
 
   - [Basic](_domains/_chemistry/_basic/basic.md)
   - [Biochemistry](_domains/_chemistry/_bio/bio.md)
@@ -208,4 +208,4 @@
   - [Methods](_domains/_chemistry/_methods/methods.md)
   - [Organic](_domains/_chemistry/_organic/basic.md)
 
-* [Templates](_domains/_templates/templates.md)
+- [Templates](_domains/_templates/templates.md)
