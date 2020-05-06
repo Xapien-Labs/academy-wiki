@@ -69,3 +69,4 @@ Rate of Innovation: Slow
 
 https://ocw.mit.edu/courses/engineering-systems-division/esd-72-engineering-risk-benefit-analysis-spring-2007/ | Engineering Risk-Benefit Analysis | Engineering Systems Division | MIT OpenCourseWare
 https://ocw.mit.edu/courses/engineering-systems-division/esd-71-engineering-systems-analysis-for-design-fall-2008/ | Engineering Systems Analysis for Design | Engineering Systems Division | MIT OpenCourseWare
+https://ocw.mit.edu/courses/materials-science-and-engineering/3-003-principles-of-engineering-practice-spring-2010/
