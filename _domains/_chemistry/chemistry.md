@@ -27,14 +27,12 @@
 
 ## Books
 
+---
+
 Solomon's Organic Chemistry
 
 JD Lee Inorganic Chemistry
 
-Wiley's Physical Chemistry
+## Wiley's Physical Chemistry
 
-https://ocw.mit.edu/courses/chemistry/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/ | Introduction to Organic Synthesis Laboratory | Chemistry | MIT OpenCourseWare
 https://ocw.mit.edu/courses/chemistry/5-451-chemistry-of-biomolecules-i-fall-2005/ | Chemistry of Biomolecules I | Chemistry | MIT OpenCourseWare
-https://ocw.mit.edu/courses/chemistry/5-36-biochemistry-laboratory-spring-2009/labs/ | Labs | Biochemistry Laboratory | Chemistry | MIT OpenCourseWare
-https://ocw.mit.edu/courses/chemistry/5-35-introduction-to-experimental-chemistry-fall-2012/ | Introduction to Experimental Chemistry | Chemistry | MIT OpenCourseWare
-https://ocw.mit.edu/courses/chemistry/5-35-introduction-to-experimental-chemistry-fall-2012/ | Introduction to Experimental Chemistry | Chemistry | MIT OpenCourseWare
