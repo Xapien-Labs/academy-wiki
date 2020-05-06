@@ -1,6 +1,7 @@
 # Summary
 
 - [Introduction](README.md)
+- [Prerequisites](_domains/_preq/preq.md)
 - [Biology](_domains/_bio/bio.md)
   - [Basic](_domains/_bio/_basic/basic.md)
   - [Build](_domains/_bio/_build/build.md)
