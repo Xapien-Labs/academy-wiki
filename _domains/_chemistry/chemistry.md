@@ -33,6 +33,30 @@ Solomon's Organic Chemistry
 
 JD Lee Inorganic Chemistry
 
-## Wiley's Physical Chemistry
+Wiley's Physical Chemistry
 
+---
+
+5.03 Principles of Inorganic Chemistry I
+5.07[J] Introduction to Biological Chemistry
+5.12 Organic Chemistry I
+5.13 Organic Chemistry II
+5.601 Thermodynamics I
+5.602 Thermodynamics II and Kinetics
+5.611 Introduction to Spectroscopy
+5.612 Electronic Structure of Molecules
+Select two of the following:
+5.04
+Principles of Inorganic Chemistry II
+5.08[J]
+Fundamentals of Chemical Biology
+5.43
+Advanced Organic Chemistry
+5.62
+Physical Chemistry
+Departmental Laboratory Requirement
+5.351 Fundamentals of Spectroscopy
+5.352 Synthesis of Coordination Compounds and Kinetics (CI-M)
+5.353 Macromolecular Prodrugs
+5.361 Expression and Purification of Enzyme Mutants
 https://ocw.mit.edu/courses/chemistry/5-451-chemistry-of-biomolecules-i-fall-2005/ | Chemistry of Biomolecules I | Chemistry | MIT OpenCourseWare
