@@ -7,6 +7,7 @@
     - [Aging](_domains/_bio/_build/aging.md)
     - [Gene-therapy](_domains/_bio/_build/genetherapy.md)
   - [Classic](_domains/_bio/_classic/classic.md)
+    - [Evolution](_domains/_bio_/_classic/evolution.md)
     - [Cell Biology](_domains/_bio/_classic/_cell/cell.md)
     - [Developmental Biology](_domains/_bio/_classic/_developmental/embryology.md)
     - [Genetics](_domains/_bio/_classic/_genetics/genetics.md)
@@ -93,7 +94,7 @@
     - [2D Materials](_domains/_eng/_materials/materials.md)
     - [MXenes](_domains/_eng/_materials/materials.md)
 
-  - [Misc](_domains/_eng/_misc/misc.md)
+  - [Miscellaneous](_domains/_eng/_misc/misc.md)
 
     - [3D-Printing](_domains/_eng/_misc/misc.md)
     - [Biomedical Engineering](_domains/_eng/_misc/misc.md)
@@ -133,7 +134,7 @@
   - [Public Policy](_domains/_misc/governance/publicpolicy.md)
   - [Economics](_domains/_misc/governance/economics.md)
 
-* [Misc](_domains/_misc/misc.md)
+* [Miscellaneous](_domains/_misc/misc.md)
 
   - [Collaboration](_domains/_misc/general/collaboration.md)
   - [Human Behaviour](_domains/_misc/general/humanbehaviour.md)
@@ -150,11 +151,10 @@
 
 - [Accounting and Commerce](_domains/_misc/_commerce/accounting.md)
 
-* [Social](_domains/_misc/social/social.md)
+* [Social Sciences](_domains/_misc/social/social.md)
 
   - [Civics](_domains/_misc/social/social.md)
   - [Culture](_domains/_misc/social/social.md)
-  - [Evolution](_domains/_misc/social/social.md)
   - [Geography](_domains/_misc/social/social.md)
   - [History](_domains/_misc/social/social.md)
 
