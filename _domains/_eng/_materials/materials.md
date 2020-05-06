@@ -8,6 +8,8 @@ https://ocw.mit.edu/courses/materials-science-and-engineering/3-032-mechanical-b
 
 http://web.mit.edu/hujuejun/www/MIT3022.shtml
 
+https://ocw.mit.edu/courses/materials-science-and-engineering/3-003-principles-of-engineering-practice-spring-2010/
+
 ---
 
 https://ocw.mit.edu/courses/materials-science-and-engineering/3-00-thermodynamics-of-materials-fall-2002/
