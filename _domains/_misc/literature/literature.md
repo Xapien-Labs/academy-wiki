@@ -1,0 +1,4 @@
+https://ocw.mit.edu/courses/literature/21l-021-comedy-spring-2016/
+https://ocw.mit.edu/courses/literature/21l-003-introduction-to-fiction-fall-2003/
+https://ocw.mit.edu/courses/literature/21l-003-2-reading-fiction-spring-2007/
+https://ocw.mit.edu/courses/literature/21l-004-reading-poetry-spring-2018/
