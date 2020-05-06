@@ -46,6 +46,7 @@
     - [Devops](_domains/_dev/_web/web.md)
     - [Architect and System Design](_domains/_dev/_web/web.md)
     - [DataOps](_domains/_dev/_web/web.md)
+    - [Security/Hacking](_domains/_eng/_misc/misc.md)
   - [Mixed Reality (AR/VR)](_domains/_dev/_xr/xr.md)
 
 - [Artificial Intelligence](_domains/_ai/ai.md)
@@ -73,7 +74,8 @@
   - [Theory Automata](_domains/_eng/_cs/cs.md)
   - [Cloud Computing](_domains/_eng/_cs/cs.md)
   - [Quantum Computing](_domains/_eng/_misc/misc.md)
-  - [Security/Hacking](_domains/_eng/_misc/misc.md)
+  - [Crytography](_domains/_eng/_misc/misc.md)
+  - [Blockchain Landscape](_domains/_eng/_misc/misc.md)
   - [Software Development](_domains/_eng/_misc/misc.md)
 
 * [Engineering](_domains/_eng/eng.md)
