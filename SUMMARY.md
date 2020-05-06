@@ -72,6 +72,8 @@
   - [Theory Automata](_domains/_eng/_cs/cs.md)
   - [Cloud Computing](_domains/_eng/_cs/cs.md)
   - [Quantum Computing](_domains/_eng/_misc/misc.md)
+  - [Security/Hacking](_domains/_eng/_misc/misc.md)
+  - [Software Development](_domains/_eng/_misc/misc.md)
 
 * [Engineering](_domains/_eng/eng.md)
 
