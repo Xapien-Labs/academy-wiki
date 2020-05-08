@@ -159,6 +159,7 @@
   - [Finance](_domains/_startups/startups.md)
   - [Marketing](_domains/_startups/startups.md)
   - [Sales](_domains/_startups/startups.md)
+  - [Management](_domains/_startups/startups.md)
 
 - [Accounting and Commerce](_domains/_misc/_commerce/accounting.md)
 
