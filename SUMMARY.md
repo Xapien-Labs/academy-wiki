@@ -198,17 +198,12 @@
 * [Physics](_domains/_physics/physics.md)
 
   - [Basic](_domains/_physics/_basic/basic.md)
-
   - [Astrophysics](_domains/_physics/_astro/astro.md)
-
   - [Optics](_domains/_physics/_optics/optics.md)
-
-  - [Misc](_domains/_physics/_misc/misc.md)
-
-    - [Condensed Matter physics](_domains/_physics/_misc/condensedmatter.md)
-    - [Fusion](_domains/_physics/_misc/fusion.md)
-    - [High Energy physics](_domains/_physics/_misc/highenergy.md)
-    - [Plasma physics](_domains/_physics/_misc/plasma.md)
+  - [Condensed Matter physics](_domains/_physics/_misc/condensedmatter.md)
+  - [Fusion](_domains/_physics/_misc/fusion.md)
+  - [High Energy physics](_domains/_physics/_misc/highenergy.md)
+  - [Plasma physics](_domains/_physics/_misc/plasma.md)
 
 * [Mathematics](_domains/_maths/maths.md)
 
