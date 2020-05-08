@@ -160,7 +160,8 @@
   - [Marketing](_domains/_startups/startups.md)
   - [Sales](_domains/_startups/startups.md)
   - [Management](_domains/_startups/startups.md)
-  - [Accounting and Commerce](_domains/_misc/_commerce/accounting.md)
+  - [Accounting](_domains/_misc/_commerce/accounting.md)
+  - [Commerce](_domains/_misc/_commerce/accounting.md)
 
 * [Social Sciences](_domains/_misc/social/social.md)
 
