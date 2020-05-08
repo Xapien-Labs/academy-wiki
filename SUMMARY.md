@@ -180,6 +180,10 @@
   - [Journalism](_domains/_misc/literature/literature.md)
 
 * [Arts](_domains/_misc/arts/arts.md)
+  - [Arts Studio](_domains/_misc/arts/arts.md)
+  - [Dance](_domains/_misc/arts/arts.md)
+  - [Drama](_domains/_misc/arts/arts.md)
+  - [Music](_domains/_misc/arts/arts.md)
 
 - [Literature](_domains/_misc/literature/literature.md)
 
