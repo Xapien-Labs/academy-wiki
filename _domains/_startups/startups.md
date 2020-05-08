@@ -19,8 +19,6 @@
 
 # Fundraising
 
-# SEO
-
 # App Development
 
 # Drawing up Plans
@@ -31,4 +29,4 @@
 
 ## Scrum and other Things
 
-## Software Development Lifecycle
+https://ocw.mit.edu/courses/sloan-school-of-management/15-067-competitive-decision-making-and-negotiation-spring-2011/index.htm
