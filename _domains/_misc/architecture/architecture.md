@@ -21,3 +21,5 @@ https://architecture.mit.edu/subject/fall-2019-4603
 https://ocw.mit.edu/courses/architecture/4-163j-urban-design-studio-providence-spring-2005/ | Urban Design Studio: Providence | Architecture | MIT OpenCourseWare
 
 https://ocw.mit.edu/courses/urban-studies-and-planning/11-123-big-plans-and-mega-urban-landscapes-spring-2014/assignments/ | Assignments | Big Plans and Mega-Urban Landscapes | Urban Studies and Planning | MIT OpenCourseWare
+
+Building Construction, Architectural History, Computer Graphics, Mechanics of Structure, Building Modeling, Climatology, Art Appreciation, Rendering Techniques, Methods of Construction, Acoustics, Sociology in Architecture, Surveying, Estimation, Urban Planning, Interior Design, Energy Efficiency in Designing, Disaster Resistance

@@ -95,8 +95,7 @@
 
   - [Materials Science](_domains/_eng/_materials/materials.md)
 
-    - [Graphene](_domains/_eng/_materials/materials.md)
-    - [2D Materials](_domains/_eng/_materials/materials.md)
+    - [2D Materials and Graphene](_domains/_eng/_materials/materials.md)
     - [MXenes](_domains/_eng/_materials/materials.md)
 
   - [Miscellaneous](_domains/_eng/_misc/misc.md)
@@ -124,7 +123,7 @@
     - [Fabrication](_domains/_eng/_semi/semi.md)
     - [Emerging Technologies](_domains/_eng/_semi/semi.md)
 
-  - [Telecommunications industry](_domains/_eng/eng.md)
+  - [Telecommunications industry](_domains/_telecom/telecom.md)
 
     - Information Theory
 
@@ -158,6 +157,8 @@
   - [Startups](_domains/_startups/startups.md)
     - [Product Management](_domains/_startups/startups.md)
   - [Finance](_domains/_startups/startups.md)
+  - [Marketing](_domains/_startups/startups.md)
+  - [Sales](_domains/_startups/startups.md)
 
 - [Accounting and Commerce](_domains/_misc/_commerce/accounting.md)
 
