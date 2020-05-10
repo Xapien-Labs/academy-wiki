@@ -5,6 +5,7 @@ https://architecture.mit.edu/disciplines/computation/subjects
 
 ---
 
+Structural Principles, by I. Engel
 https://architecture.mit.edu/subject/fall-2018-4021
 https://architecture.mit.edu/subject/spring-2019-4022
 https://architecture.mit.edu/subject/fall-2011-4114

@@ -33,6 +33,8 @@
   - [Synthetic Biology](_domains/_bio/_synthetic/synthetic.md)
   - [Biotech](_domains/_bio/_tech/tech.md)
   - [Therapeutics](_domains/_bio/_therapeutics/therapeutics.md)
+  - [Methods](_domains/_bio/_methods/methods.md)
+    - [BioStatistics](_domains/_bio/_methods/methods.md)
   - [Vaccines](_domains/_bio/_therapeutics/vaccines.md)
 - [Devs](_domains/_dev/devs.md)
 
