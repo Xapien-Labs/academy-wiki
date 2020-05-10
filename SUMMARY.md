@@ -20,6 +20,7 @@
     - [Structural Biology](_domains/_bio/_classic/_molecular/structural.md)
     - [Neuroscience](_domains/_bio/_classic/_neuro/neuro.md)
     - [Misc](_domains/_bio/_classic/_misc/misc.md)
+      - [Epidemiology](_domains/_bio/_classic/_misc/misc.md)
     - [Biophysics](_domains/_bio/_classic/_physics/physics.md)
   - [Disease](_domains/_bio/_disease/disease.md)
     - [Cancer](_domains/_bio/_disease/_cancer/cancer.md)
