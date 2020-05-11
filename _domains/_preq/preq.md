@@ -1,4 +1,4 @@
 ## Prequisites
 
 
-## Covering Middle and High School Fast : Playlist app Minentro
+## Covering Middle and Some portions of High School Fast : Playlist app Minentro
