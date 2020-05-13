@@ -178,8 +178,7 @@
 * [Media](_domains/_misc/_media/video.md)
 
   - [Video Tools](_domains/_misc/arts/video.md)
-  - [Film/Movies/Documentary](_domains/_misc/arts/video.md)
-  - [TV-Series](_domains/_misc/arts/video.md)
+  - [Film Production](_domains/_misc/arts/video.md)
   - [Journalism](_domains/_misc/literature/literature.md)
 
 * [Arts](_domains/_misc/arts/arts.md)
