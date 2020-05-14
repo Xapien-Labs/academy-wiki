@@ -6,6 +6,6 @@
 
 ### Thermodynamics :
 
-### Gravitation ;
+### Gravitation :
 
-## Electricity and Magnetism : Griffiths
+### Electricity and Magnetism : Griffiths
