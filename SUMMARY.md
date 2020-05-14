@@ -41,6 +41,7 @@
 
   - [Design](_domains/_dev/_design/design.md)
     - [Animation](_domains/_dev/_design/design.md)
+    - [Miscellaneous](_domains/_dev/_design/design.md)
   - [Game](_domains/_dev/_game/game_.md)
   - [Web](_domains/_dev/_web/web.md)
     - [Stack and APIs](_domains/_dev/_web/web.md)
