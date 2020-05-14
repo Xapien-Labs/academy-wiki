@@ -150,7 +150,8 @@
 
   - [Collaboration](_domains/_misc/general/collaboration.md)
   - [Human Behaviour](_domains/_misc/general/humanbehaviour.md)
-  - [Innovation and Progressivism](_domains/_misc/general/innovation.md)
+  - [Progressivism](_domains/_misc/general/innovation.md)
+  - [Disruptive Innovation](_domains/_misc/general/innovation.md)
   - [Philosophy](_domains/_misc/general/philosophy.md)
   - [Communication](_domains/_misc/general/communication.md)
   - [EmotionalQ](_domains/_misc/general/emotionalq.md)
@@ -165,6 +166,7 @@
   - [Management](_domains/_startups/startups.md)
   - [Accounting](_domains/_misc/_commerce/accounting.md)
   - [Commerce](_domains/_misc/_commerce/accounting.md)
+  - [Global Operations](_domains/_misc/_commerce/accounting.md)
 
 * [Social Sciences](_domains/_misc/social/social.md)
 
