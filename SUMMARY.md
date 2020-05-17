@@ -175,6 +175,7 @@
   - [Culture](_domains/_misc/social/social.md)
   - [Geography](_domains/_misc/social/social.md)
   - [History](_domains/_misc/social/social.md)
+  - [Religious Studies](_domains/_misc/social/religiousstudies.md)
 
 - [Law](_domains/_misc/_law/law.md)
 
