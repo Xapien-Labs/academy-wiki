@@ -41,3 +41,9 @@ Swensen, David F. Pioneering Portfolio Management. An Unconventional Approach to
 Taggart, Jr, Robert A. Quantitative Analysis for Investment Management, Upper Saddle River, New Jersey: Prentice Hall, 1996.
 
 Tobin, James with Stephen Golub. Money, Credit, and Capital, Boston: Irwin-McGraw Hill, 1998.
+
+General Finance
+Portfolio Management
+Pricing of Securities
+Risk Management
+Trading and Market Microstructure
