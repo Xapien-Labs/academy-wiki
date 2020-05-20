@@ -231,4 +231,10 @@
   - [Classics](_domains/_misc/literature/literature.md)
   - [Language](_domains/_misc/literature/literature.md)
 
-* [Templates](_domains/_templates/templates.md)
+* [20. Utils](_domains/_utils/utils.md)
+  - [All Programs](_domains/_utils/_programs/programs.md)
+  - [Careers](_domains/_utils/_careers/careers.md)
+  - [Job Statistics](_domains/_utils/_careers/careers.md)
+  - [Tests](_domains/_utils/_tests/tests.md)
+  - [Research Field Guide Template](_domains/_utils/_research/fieldguide.md)
+  - [Build Template](_domains/_utils/_build/build.md)
