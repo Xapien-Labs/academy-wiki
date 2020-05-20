@@ -1,9 +1,15 @@
 ## Online Tests
 
-### One-to-One Interviews
+- One-to-One Interviews/AI-based Viva
 
-### Objective Tests
+- Objective Tests
 
-### Practical Tests
+- Practicals
 
-### Subjective Tests/Assignments
+- Subjective Tests/Assignments
+
+- Projects
+
+---
+
+Feedback based on AI
