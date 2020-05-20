@@ -1,5 +1,32 @@
-BachelorsX
+### BachelorsX
 
-MastersX
+What modules should be completed, to qualify for these ?
 
-PhDX
+- Bio
+- Chem
+- Phy
+- Math
+- CS
+- AI
+- Eng
+  - Mech
+  - Civil
+  - Aerospace
+  - EEP
+  - Electronics
+  - Materials Science
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+### MastersX
+
+### PhDX
