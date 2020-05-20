@@ -1,3 +1,7 @@
+### HighSchoolX or SecondaryX
+
+: Take a preq exam for further, notes help or learning etc
+
 ### BachelorsX
 
 What modules should be completed, to qualify for these ?
