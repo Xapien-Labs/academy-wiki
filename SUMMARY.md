@@ -3,7 +3,7 @@
 - [Introduction](README.md)
 - [Prerequisites](_domains/_preq/preq.md)
 
-* [Physics](_domains/_physics/physics.md)
+* [1. Physics](_domains/_physics/physics.md)
 
   - [Basic](_domains/_physics/_basic/basic.md)
   - [Astrophysics](_domains/_physics/_astro/astro.md)
@@ -13,7 +13,7 @@
   - [High Energy physics](_domains/_physics/_misc/highenergy.md)
   - [Plasma physics](_domains/_physics/_misc/plasma.md)
 
-* [Mathematics](_domains/_maths/maths.md)
+* [2. Mathematics](_domains/_maths/maths.md)
 
   - [Basic](_domains/_maths/_basic/basic.md)
     - [Information Theory]
@@ -21,7 +21,7 @@
   - [Logic&Reasoning](_domains/_maths/logic.md)
   - [Research](_domains/_maths/advanced.md)
 
-* [Chemistry](_domains/_chemistry/chemistry.md)
+* [3. Chemistry](_domains/_chemistry/chemistry.md)
 
   - [Basic](_domains/_chemistry/_basic/basic.md)
   - [Biochemistry](_domains/_chemistry/_bio/bio.md)
@@ -29,7 +29,7 @@
   - [Methods](_domains/_chemistry/_methods/methods.md)
   - [Organic](_domains/_chemistry/_organic/basic.md)
 
-- [Biology](_domains/_bio/bio.md)
+- [4. Biology](_domains/_bio/bio.md)
 
   - [Basic](_domains/_bio/_basic/basic.md)
   - [Build](_domains/_bio/_build/build.md)
@@ -66,7 +66,7 @@
     - [BioStatistics](_domains/_bio/_methods/methods.md)
   - [Vaccines](_domains/_bio/_therapeutics/vaccines.md)
 
-- [Devs](_domains/_dev/devs.md)
+- [5. Devs](_domains/_dev/devs.md)
 
   - [Design](_domains/_dev/_design/design.md)
     - [Animation](_domains/_dev/_design/design.md)
@@ -82,7 +82,7 @@
     - [Security/Hacking](_domains/_eng/_misc/misc.md)
   - [Mixed Reality (AR/VR)](_domains/_dev/_xr/xr.md)
 
-- [Artificial Intelligence](_domains/_ai/ai.md)
+- [6. Artificial Intelligence](_domains/_ai/ai.md)
 
   - [Classical AI](_domains/_ai/ai.md)
   - [Computer Vision](_domains/_ai/ai.md)
@@ -91,7 +91,7 @@
   - [Reinforcement Learning](_domains/_ai/ai.md)
   - [Cognitive Sciences](_domains/_ai/ai.md)
 
-- [Computer Science](_domains/_eng/_cs/cs.md)
+- [7. Computer Science](_domains/_eng/_cs/cs.md)
   - [Tools](_domains/_eng/_cs/cs.md)
   - [Data Science](_domains/_eng/_cs/cs.md)
   - [Programming Languages](_domains/_eng/_cs/cs.md)
@@ -112,7 +112,7 @@
   - [Blockchain Landscape](_domains/_eng/_misc/misc.md)
   - [Software Development](_domains/_eng/_misc/misc.md)
 
-* [Engineering](_domains/_eng/eng.md)
+* [8. Engineering](_domains/_eng/eng.md)
 
   - [Build](_domains/_eng/_build/build.md)
 
@@ -163,21 +163,25 @@
     - [5G, 4G and LTE](_domains/_telecom/telecom.md)
   - [Skills](_domains/_eng/eng.md)
 
-* [Architecture and Planning](_domains/_misc/architecture/architecture.md)
+* [9. Earth Sciences and Environment](_domains/_environment/environment.md)
+
+  - [Climate Change](_domains/_environment/climate.md)
+
+* [10. Architecture and Planning](_domains/_misc/architecture/architecture.md)
 
   - [Architecture](_domains/_misc/architecture/architecture.md)
   - [Planning](_domains/_misc/architecture/architecture.md)
   - [Arcology](_domains/_misc/architecture/architecture.md)
   - [Transportation](_domains/_misc/architecture/architecture.md)
 
-* [Education](_domains/_misc/cognition/education.md)
+* [11. Education](_domains/_misc/cognition/education.md)
 
-* [Governance](_domains/_misc/governance/governance.md)
+* [12. Governance](_domains/_misc/governance/governance.md)
 
   - [Public Policy](_domains/_misc/governance/publicpolicy.md)
   - [Economics](_domains/_misc/governance/economics.md)
 
-* [Miscellaneous](_domains/_misc/misc.md)
+* [13. Miscellaneous](_domains/_misc/misc.md)
 
   - [Collaboration](_domains/_misc/general/collaboration.md)
   - [Human Behaviour](_domains/_misc/general/humanbehaviour.md)
@@ -187,7 +191,7 @@
   - [Communication](_domains/_misc/general/communication.md)
   - [EmotionalQ](_domains/_misc/general/emotionalq.md)
 
-- [Business](_domains/_startups/startups.md)
+- [14. Business](_domains/_startups/startups.md)
 
   - [Startups](_domains/_startups/startups.md)
     - [Product Management](_domains/_startups/startups.md)
@@ -199,7 +203,7 @@
   - [Commerce](_domains/_misc/_commerce/accounting.md)
   - [Global Operations](_domains/_misc/_commerce/accounting.md)
 
-* [Social Sciences](_domains/_misc/social/social.md)
+* [15. Social Sciences](_domains/_misc/social/social.md)
 
   - [Civics](_domains/_misc/social/social.md)
   - [Culture](_domains/_misc/social/social.md)
@@ -207,28 +211,24 @@
   - [History](_domains/_misc/social/social.md)
   - [Religious Studies](_domains/_misc/social/religiousstudies.md)
 
-- [Law](_domains/_misc/_law/law.md)
+- [16. Law](_domains/_misc/_law/law.md)
 
-* [Media](_domains/_misc/_media/video.md)
+* [17. Media](_domains/_misc/_media/video.md)
 
   - [Video Tools](_domains/_misc/arts/video.md)
   - [Film Production](_domains/_misc/arts/video.md)
   - [Journalism](_domains/_misc/literature/literature.md)
 
-* [Arts](_domains/_misc/arts/arts.md)
+* [18. Arts](_domains/_misc/arts/arts.md)
   - [Arts Studio](_domains/_misc/arts/arts.md)
   - [Dance](_domains/_misc/arts/arts.md)
   - [Drama](_domains/_misc/arts/arts.md)
   - [Music](_domains/_misc/arts/arts.md)
 
-- [Literature](_domains/_misc/literature/literature.md)
+- [19. Literature](_domains/_misc/literature/literature.md)
 
   - [Writing](_domains/_misc/literature/literature.md)
   - [Classics](_domains/_misc/literature/literature.md)
   - [Language](_domains/_misc/literature/literature.md)
 
-* [Earth Sciences and Environment](_domains/_environment/environment.md)
-
-  - [Climate Change](_domains/_environment/climate.md)
-
-- [Templates](_domains/_templates/templates.md)
+* [Templates](_domains/_templates/templates.md)
