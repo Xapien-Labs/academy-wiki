@@ -79,6 +79,7 @@
   - [Cloud Computing](_domains/_eng/_cs/cs.md)
   - [Quantum Computing](_domains/_eng/_misc/misc.md)
   - [Crytography](_domains/_eng/_misc/misc.md)
+  - [Multimedia](_domains/_eng/_misc/misc.md)
   - [Blockchain Landscape](_domains/_eng/_misc/misc.md)
   - [Software Development](_domains/_eng/_misc/misc.md)
 
