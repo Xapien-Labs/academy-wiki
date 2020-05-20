@@ -234,6 +234,7 @@
 * [20. Utils](_domains/_utils/utils.md)
   - [All Programs](_domains/_utils/_programs/programs.md)
   - [All Modules](_domains/_utils/_programs/modules.md)
+  - [Labs](_domains/_utils/_programs/labs.md)
   - [Careers](_domains/_utils/_careers/careers.md)
   - [Job Statistics](_domains/_utils/_careers/careers.md)
   - [Tests](_domains/_utils/_tests/tests.md)
