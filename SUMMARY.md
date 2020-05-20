@@ -2,7 +2,35 @@
 
 - [Introduction](README.md)
 - [Prerequisites](_domains/_preq/preq.md)
+
+* [Physics](_domains/_physics/physics.md)
+
+  - [Basic](_domains/_physics/_basic/basic.md)
+  - [Astrophysics](_domains/_physics/_astro/astro.md)
+  - [Optics](_domains/_physics/_optics/optics.md)
+  - [Condensed Matter physics](_domains/_physics/_misc/condensedmatter.md)
+  - [Fusion](_domains/_physics/_misc/fusion.md)
+  - [High Energy physics](_domains/_physics/_misc/highenergy.md)
+  - [Plasma physics](_domains/_physics/_misc/plasma.md)
+
+* [Mathematics](_domains/_maths/maths.md)
+
+  - [Basic](_domains/_maths/_basic/basic.md)
+    - [Information Theory]
+    -
+  - [Logic&Reasoning](_domains/_maths/logic.md)
+  - [Research](_domains/_maths/advanced.md)
+
+* [Chemistry](_domains/_chemistry/chemistry.md)
+
+  - [Basic](_domains/_chemistry/_basic/basic.md)
+  - [Biochemistry](_domains/_chemistry/_bio/bio.md)
+  - [Build](_domains/_chemistry/_build/build.md)
+  - [Methods](_domains/_chemistry/_methods/methods.md)
+  - [Organic](_domains/_chemistry/_organic/basic.md)
+
 - [Biology](_domains/_bio/bio.md)
+
   - [Basic](_domains/_bio/_basic/basic.md)
   - [Build](_domains/_bio/_build/build.md)
     - [Aging](_domains/_bio/_build/aging.md)
@@ -19,7 +47,7 @@
     - [Proteins](_domains/_bio/_classic/_molecular/_proteins/proteins.md)
     - [Structural Biology](_domains/_bio/_classic/_molecular/structural.md)
     - [Neuroscience](_domains/_bio/_classic/_neuro/neuro.md)
-    - [Misc](_domains/_bio/_classic/_misc/misc.md)
+    - [Miscellaneous](_domains/_bio/_classic/_misc/misc.md)
       - [Epidemiology](_domains/_bio/_classic/_misc/misc.md)
     - [Biophysics](_domains/_bio/_classic/_physics/physics.md)
   - [Disease](_domains/_bio/_disease/disease.md)
@@ -28,7 +56,7 @@
     - [Basic](_domains/_bio/_medicine/_basic/basic.md)
     - [Domains](_domains/_bio/_medicine/_domains/domains.md)
     - [Methods](_domains/_bio/_medicine/_methods/methods.md)
-    - [Misc](_domains/_bio/_medicine/_misc/misc.md)
+    - [Miscellaneous](_domains/_bio/_medicine/_misc/misc.md)
     - [Practice of Medicine](_domains/_bio/_medicine/_practice/practice.md)
     - [Methods](_domains/_bio/_methods/methods.md)
   - [Synthetic Biology](_domains/_bio/_synthetic/synthetic.md)
@@ -37,6 +65,7 @@
   - [Methods](_domains/_bio/_methods/methods.md)
     - [BioStatistics](_domains/_bio/_methods/methods.md)
   - [Vaccines](_domains/_bio/_therapeutics/vaccines.md)
+
 - [Devs](_domains/_dev/devs.md)
 
   - [Design](_domains/_dev/_design/design.md)
@@ -112,26 +141,26 @@
     - [Photonics](_domains/_eng/_misc/misc.md)
     - [Aerospace Engineering](_domains/_eng/_misc/misc.md)
     - [Electrical and Power Engineering](_domains/_eng/_misc/misc.md)
+    - [Geological Engineering](_domains/_environment/climate.md)
 
   - [Robotics](_domains/_eng/_robotics/robotics.md)
 
     - [Skills](_domains/_eng/_robotics/robotics.md)
-    - [Embedded](_domains/_eng/_robotics/robotics.md)
-    - [Control](_domains/_eng/_robotics/robotics.md)
+    - [Embedded Systems](_domains/_eng/_robotics/robotics.md)
+    - [Control Systems](_domains/_eng/_robotics/robotics.md)
 
   - [Semiconductor industry](_domains/_eng/_semi/semi.md)
 
     - [Tools](_domains/_eng/_semi/semi.md)
-    - [Digital](_domains/_eng/_semi/semi.md)
-    - [Analog and RF-IC](_domains/_eng/_semi/semi.md)
-    - [SoC and Mixel Signal](_domains/_eng/_semi/semi.md)
+    - [Digital Design](_domains/_eng/_semi/semi.md)
+    - [Analog Design and RF-IC](_domains/_eng/_semi/semi.md)
+    - [Devices](_domains/_eng/_semi/semi.md)
+    - [SoC and Mixel Signal Design](_domains/_eng/_semi/semi.md)
     - [Fabrication](_domains/_eng/_semi/semi.md)
     - [Emerging Technologies](_domains/_eng/_semi/semi.md)
 
   - [Telecommunications industry](_domains/_telecom/telecom.md)
-
-    - Information Theory
-
+    - [5G, 4G and LTE](_domains/_telecom/telecom.md)
   - [Skills](_domains/_eng/eng.md)
 
 * [Architecture and Planning](_domains/_misc/architecture/architecture.md)
@@ -201,29 +230,5 @@
 * [Earth Sciences and Environment](_domains/_environment/environment.md)
 
   - [Climate Change](_domains/_environment/climate.md)
-
-* [Physics](_domains/_physics/physics.md)
-
-  - [Basic](_domains/_physics/_basic/basic.md)
-  - [Astrophysics](_domains/_physics/_astro/astro.md)
-  - [Optics](_domains/_physics/_optics/optics.md)
-  - [Condensed Matter physics](_domains/_physics/_misc/condensedmatter.md)
-  - [Fusion](_domains/_physics/_misc/fusion.md)
-  - [High Energy physics](_domains/_physics/_misc/highenergy.md)
-  - [Plasma physics](_domains/_physics/_misc/plasma.md)
-
-* [Mathematics](_domains/_maths/maths.md)
-
-  - [Basic](_domains/_maths/_basic/basic.md)
-  - [Logic&Reasoning](_domains/_maths/logic.md)
-  - [Research](_domains/_maths/advanced.md)
-
-* [Chemistry](_domains/_chemistry/chemistry.md)
-
-  - [Basic](_domains/_chemistry/_basic/basic.md)
-  - [Biochemistry](_domains/_chemistry/_bio/bio.md)
-  - [Build](_domains/_chemistry/_build/build.md)
-  - [Methods](_domains/_chemistry/_methods/methods.md)
-  - [Organic](_domains/_chemistry/_organic/basic.md)
 
 - [Templates](_domains/_templates/templates.md)
