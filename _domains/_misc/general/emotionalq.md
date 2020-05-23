@@ -1,8 +1,9 @@
 ## Don't give your emotions or what you are feeling, too much control over your actions !!
 
-## Anxiety management 
+## Anxiety management
 
-## Happiness and Satisfaction 
+## Happiness and Satisfaction
 
-## Dealing with Mental Health and Depression 
+## Dealing with Mental Health and Depression
 
+## Stoicism :
