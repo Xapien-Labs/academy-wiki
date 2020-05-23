@@ -7,3 +7,9 @@
 ## For jobs 
 
 ## For doing research
+
+### Writing papers and reviews
+
+### Doing research 
+
+### Reputation Laundering 
