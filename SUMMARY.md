@@ -211,7 +211,7 @@
     - [Culture](_domains/_misc/social/social.md)
   - [Religious Studies](_domains/_misc/social/religiousstudies.md)
   - [Global Studies](_domains/_misc/social/religiousstudies.md)
-  - [Trends and Exploration](_domains/_misc/social/socialresearch.md)
+  - [Field Guide](_domains/_misc/social/fieldguide.md)
 
 - [16. Law](_domains/_misc/_law/law.md)
 
