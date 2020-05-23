@@ -1,4 +1,4 @@
- Contracts — Torts — Procedure — Real Estate — Criminal — Evidence.
+Contracts — Torts — Procedure — Real Estate — Criminal — Evidence.
 
 Contract law teaches the basic principles that underlie individual interactions. The ideas of competent parties, meetings of the mind, and consideration are taught and then have application across a wide variety of other sub-specialties, from banking to buying and selling a house.
 
