@@ -204,12 +204,14 @@
   - [Global Operations](_domains/_misc/_commerce/accounting.md)
 
 * [15. Social Sciences](_domains/_misc/social/social.md)
-
-  - [Civics](_domains/_misc/social/social.md)
-  - [Culture](_domains/_misc/social/social.md)
-  - [Geography](_domains/_misc/social/social.md)
-  - [History](_domains/_misc/social/social.md)
+  - [Crash 101](_domains/_misc/social/social.md)
+    - [Civics](_domains/_misc/social/social.md)
+    - [Geography](_domains/_misc/social/social.md)
+    - [History](_domains/_misc/social/social.md)
+    - [Culture](_domains/_misc/social/social.md)
   - [Religious Studies](_domains/_misc/social/religiousstudies.md)
+  - [Global Studies](_domains/_misc/social/religiousstudies.md)
+  - [Trends and Exploration](_domains/_misc/social/socialresearch.md)
 
 - [16. Law](_domains/_misc/_law/law.md)
 
