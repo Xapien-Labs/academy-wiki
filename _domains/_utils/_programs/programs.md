@@ -186,3 +186,7 @@ Technology and Policy
 Transportation
 
 http://timroughgarden.org/
+
+### Complete Tests : Award yourself an online degree, we dont any degrees online. We believe in you and your effort. Since, most degrees are just a piece of paper, we want to make sure that your integrity and honesty are paramount to learning. Tests are available to ground your understanding, improve your skills and push you to the path of success. 
+
+### It is absolutely necessary that we award you the degreees, on the pretext of you yourself awarding that degree to you. 
