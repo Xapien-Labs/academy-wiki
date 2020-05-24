@@ -189,7 +189,7 @@
   - [Disruptive Innovation](_domains/_misc/general/innovation.md)
   - [Philosophy](_domains/_misc/general/philosophy.md)
   - [Communication](_domains/_misc/general/communication.md)
-  - [EmotionalQ](_domains/_misc/general/emotionalq.md)
+  - [Emotional Intelligence](_domains/_misc/general/emotionalq.md)
 
 - [14. Business](_domains/_startups/startups.md)
 
@@ -226,6 +226,7 @@
   - [Dance](_domains/_misc/arts/arts.md)
   - [Drama](_domains/_misc/arts/arts.md)
   - [Music](_domains/_misc/arts/arts.md)
+  - [Sports](_domains/_misc/arts/arts.md)
 
 - [19. Literature](_domains/_misc/literature/literature.md)
 

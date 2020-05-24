@@ -4,6 +4,12 @@
 
 # Pitfalls 
 
+# Personal Branding 
+
+# Thinking 
+
+# Time-Management 
+
 # Common Wisdom 
 
 # Essential Skills 
