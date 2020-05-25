@@ -214,7 +214,12 @@
   - [Field Guide](_domains/_misc/social/fieldguide.md)
 
 - [16. Law](_domains/_misc/_law/law.md)
-
+  - [Criminal Law](_domains/_misc/_law/law.md)
+  - [Corporate Law](_domains/_misc/_law/law.md)
+  - [Civil and Family Law](_domains/_misc/_law/law.md)
+  - [Cyber Law](_domains/_misc/_law/law.md)
+  - [Administrative Law](_domains/_misc/_law/law.md)
+  
 * [17. Media](_domains/_misc/_media/video.md)
 
   - [Video Tools](_domains/_misc/arts/video.md)
