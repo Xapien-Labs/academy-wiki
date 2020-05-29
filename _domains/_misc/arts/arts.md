@@ -13,4 +13,6 @@ http://catalog.mit.edu/search/?P=21M.711 | Search Results < MIT
 http://catalog.mit.edu/search/?P=21M.710 | Search Results < MIT
 http://catalog.mit.edu/search/?P=21M.846 | Search Results < MIT
 
-# Music
+# Music and Singing
+
+Krishnakumar Kunnath
