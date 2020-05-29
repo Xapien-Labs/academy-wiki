@@ -16,3 +16,5 @@ http://catalog.mit.edu/search/?P=21M.846 | Search Results < MIT
 # Music and Singing
 
 Krishnakumar Kunnath
+
+What music and song lyrics vibe out ? : Analysis and Patterns
