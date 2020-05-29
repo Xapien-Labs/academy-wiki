@@ -214,19 +214,21 @@
   - [Field Guide](_domains/_misc/social/fieldguide.md)
 
 - [16. Law](_domains/_misc/_law/law.md)
+
   - [Criminal Law](_domains/_misc/_law/law.md)
   - [Corporate Law](_domains/_misc/_law/law.md)
   - [Civil and Family Law](_domains/_misc/_law/law.md)
   - [Cyber Law](_domains/_misc/_law/law.md)
   - [Administrative Law](_domains/_misc/_law/law.md)
-  
+
 * [17. Media](_domains/_misc/_media/video.md)
 
-  - [Video Tools](_domains/_misc/arts/video.md)
-  - [Film Production](_domains/_misc/arts/video.md)
+  - [Video Tools/VFX](_domains/_misc/arts/video.md)
+  - [Film Production/Anime](_domains/_misc/arts/video.md)
   - [Journalism](_domains/_misc/literature/literature.md)
 
 * [18. Arts](_domains/_misc/arts/arts.md)
+
   - [Arts Studio](_domains/_misc/arts/arts.md)
   - [Dance](_domains/_misc/arts/arts.md)
   - [Drama](_domains/_misc/arts/arts.md)
@@ -235,7 +237,8 @@
 
 - [19. Literature](_domains/_misc/literature/literature.md)
 
-  - [Writing](_domains/_misc/literature/literature.md)
+  - [Writing](_domains/_misc/literature/writing.md)
+  - [Screenplay](_domains/_misc/literature/screenplay.md)
   - [Classics](_domains/_misc/literature/literature.md)
   - [Language](_domains/_misc/literature/literature.md)
 

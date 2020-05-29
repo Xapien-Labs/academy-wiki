@@ -35,3 +35,6 @@
 - [Oscar Wilde (1900)](http://en.wikipedia.org/wiki/Oscar_Wilde)
 - [Paul Graham](<http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>)
 - [William Shakespeare (1616)](http://en.wikipedia.org/wiki/William_Shakespeare)
+
+Stephen King Memoir of the Craft : Books at the end
+Normal people
