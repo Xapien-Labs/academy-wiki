@@ -38,6 +38,9 @@ https://ocw.mit.edu/courses/physics/8-821-string-theory-fall-2008/ | String Theo
 https://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2006/ | Introduction to Plasma Physics I | Nuclear Science and Engineering | MIT OpenCourseWare
 https://ocw.mit.edu/courses/nuclear-engineering/22-611j-introduction-to-plasma-physics-i-fall-2003/ | Introduction to Plasma Physics I | Nuclear Science and Engineering | MIT OpenCourseWare
 
+Six Easy Pieces
+Surely you'are joking Mr. Feynman
+
 ## Physics
 
 - [📕 Relativity: the special and the general theory (1916)](http://www.goodreads.com/book/show/15852.Relativity)
