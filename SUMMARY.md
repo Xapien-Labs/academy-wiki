@@ -189,7 +189,7 @@
   - [Disruptive Innovation](_domains/_misc/general/innovation.md)
   - [Philosophy](_domains/_misc/general/philosophy.md)
   - [Communication](_domains/_misc/general/communication.md)
-  - [EmotionalQ](_domains/_misc/general/emotionalq.md)
+  - [Emotional Intelligence](_domains/_misc/general/emotionalq.md)
 
 - [14. Business](_domains/_startups/startups.md)
 
@@ -214,7 +214,12 @@
   - [Field Guide](_domains/_misc/social/fieldguide.md)
 
 - [16. Law](_domains/_misc/_law/law.md)
-
+  - [Criminal Law](_domains/_misc/_law/law.md)
+  - [Corporate Law](_domains/_misc/_law/law.md)
+  - [Civil and Family Law](_domains/_misc/_law/law.md)
+  - [Cyber Law](_domains/_misc/_law/law.md)
+  - [Administrative Law](_domains/_misc/_law/law.md)
+  
 * [17. Media](_domains/_misc/_media/video.md)
 
   - [Video Tools](_domains/_misc/arts/video.md)
@@ -226,6 +231,7 @@
   - [Dance](_domains/_misc/arts/arts.md)
   - [Drama](_domains/_misc/arts/arts.md)
   - [Music](_domains/_misc/arts/arts.md)
+  - [Sports](_domains/_misc/arts/arts.md)
 
 - [19. Literature](_domains/_misc/literature/literature.md)
 
