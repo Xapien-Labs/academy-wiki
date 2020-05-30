@@ -114,3 +114,33 @@
 ## Jobs According to the Skills
 
 ---
+
+
+
+Content Divison 
+
+---
+
+Inspirational :
+
+Classic Academic :
+
+Cutting-Edge Research :
+
+--- 
+
+Content Types and Other Miscellaneous Resources 
+
+---
+
+Youtube Channels
+
+Audio and Podcasts
+
+Code 
+
+News Sources 
+
+Twitter Feeds 
+
+Wikis and Blogs etc
