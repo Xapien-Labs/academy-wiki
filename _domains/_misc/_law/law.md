@@ -1,4 +1,4 @@
-Contracts — Torts — Procedure — Real Estate — Criminal — Evidence.
+## Contracts — Torts — Procedure — Real Estate — Criminal — Evidence.
 
 Contract law teaches the basic principles that underlie individual interactions. The ideas of competent parties, meetings of the mind, and consideration are taught and then have application across a wide variety of other sub-specialties, from banking to buying and selling a house.
 
@@ -18,8 +18,18 @@ Private law deals with interactions between individuals. And it contains civil l
 Public law, on the other hand, deals with interrelations between the state and the general population. And it contains constitutional law, penal law, administrative law, tax law and international law.
 There is also a third branch, which is like a mix of public law and private law: employment law, enforcement and bankruptcy law.
 
-Criminal
-Corporate
-Civil : Family Law
-Cyber
-Administrative 
+---
+
+### Criminal
+
+### Corporate
+
+### Civil : Family Law
+
+### Cyber
+
+### Administrative
+
+---
+
+1. Key Issues : Death Penalty, Police Brutality, Justice System Reforms in India
