@@ -200,11 +200,11 @@
     - Supply Chain, Transportation and Logistics  
     - Aerospace, Defense and Space
     - HealthCare as a Service 
-    - Education 
+    - Education, Publishing, Conferences and Events
     - SaaS, Marketing, Sales 
     - Artifical Intelligence 
     - Financial Sector
-    - Entertainment, Gaming 
+    - Entertainment, Sports, Gaming, Dating etc
     - Mixed Reality 
     - Law and Justice, IP 
     - Gig and Remote 
