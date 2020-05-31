@@ -231,9 +231,9 @@
 
   - [Arts Studio](_domains/_misc/arts/arts.md)
   - [Dance](_domains/_misc/arts/arts.md)
-  - [Drama](_domains/_misc/arts/arts.md)
-  - [Music](_domains/_misc/arts/arts.md)
-  - [Sports](_domains/_misc/arts/arts.md)
+  - [Acting and Drama](_domains/_misc/arts/arts.md)
+  - [Music and Singing](_domains/_misc/arts/arts.md)
+  - [Sports and Gaming](_domains/_misc/arts/arts.md)
 
 - [19. Literature](_domains/_misc/literature/literature.md)
 
