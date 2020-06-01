@@ -1,7 +1,5 @@
 # Innovation
 
-## Progressivism
-
 ## Flexibility
 
 ## Systems Thinking
