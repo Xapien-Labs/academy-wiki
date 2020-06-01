@@ -3,7 +3,7 @@
 : Take a preq exam for further, notes help or learning etc
 ### Seminars and Book Clubs ?
 ### BachelorsX
-
+---
 What modules should be completed, to qualify for these ?
 - Biology : 
 - Chemistry : 
@@ -21,14 +21,26 @@ What modules should be completed, to qualify for these ?
 - Finance
 - Accounting
 - Economic Analysis and Policy
+
+---
+
 ### MastersX
 
+---
+
+
 ### PhDX
+---
+
 Quals, Publications and Thesis 
+
 ### Medicine 
+---
 
+### General Requirements 
+---
 
-WAY-A-II: Aesthetic and Interpretive Inquiry
+WAY-A-IR: Aesthetic and Interpretive Inquiry
 WAY-AQR: Applied Quantitative Reasoning
 WAY-CE: Creative Expression
 WAY-ED: Engaging Diversity
@@ -47,7 +59,7 @@ EC-Gender: Gender Studies
 EC-EthicReas: Ethical Reasoning
 EC-EthicReas: Ethical Reasoning
 
-
+---
 ## School of Architecture and Planning
 Architecture (Course 4)
 
