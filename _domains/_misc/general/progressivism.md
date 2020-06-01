@@ -3,6 +3,7 @@
 ### Mental Models 
 
 ### Diversity of Thought and Opinions 
+
 Larry Page
 Elon Musk
 Jeff Bezos
