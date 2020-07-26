@@ -31,6 +31,7 @@ Koch Brothers
 Bernie Sanders 
 Alexandria Ocasio Cortez
 Xiaomi 
+George Carlin
 
 ---
 
