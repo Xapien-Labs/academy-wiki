@@ -1,8 +1,8 @@
 ## Progressivism
 
-### Mental Models 
+### Mental Models
 
-### Diversity of Thought and Opinions 
+### Diversity of Thought and Opinions
 
 Larry Page
 Elon Musk
@@ -21,20 +21,21 @@ Andrew Yang
 Narayan Murthy
 Rene Descartes
 Immanuel Kant
-Plato 
+Plato
 Friedrich Nietzsche
 Freeman Dyson
 Najam Sethi
 Jacinda Ardern
 Joshua Tenebaum
 Koch Brothers
-Bernie Sanders 
+Bernie Sanders
 Alexandria Ocasio Cortez
-Xiaomi 
+Xiaomi
 George Carlin
+Malcolm Gladwell
 
 ---
 
 Maths is always better than empathy : but both can be combined
 
-### Learning 
+### Learning
