@@ -33,6 +33,7 @@ Alexandria Ocasio Cortez
 Xiaomi
 George Carlin
 Malcolm Gladwell
+Clayton Christensen
 
 ---
 
