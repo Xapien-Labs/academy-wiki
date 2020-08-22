@@ -7,33 +7,41 @@
 Larry Page
 Elon Musk
 Jeff Bezos
-Marc Andreesen
 Bill Gates
-Naval Ravikant
-Peter Thiel
+Steve Jobs
+
 Chamath Palihapitiya
-Cathie Wood
-Francois Chollet
+Peter Thiel
+Naval Ravikant
+Marc Andreesen
 Vinod Khosla
-CCP and Chinese Thinkers
-Greta Thunberg
-Andrew Yang
-Narayan Murthy
-Rene Descartes
-Immanuel Kant
-Plato
-Friedrich Nietzsche
-Freeman Dyson
-Najam Sethi
-Jacinda Ardern
+
+Francois Chollet
 Joshua Tenebaum
+
+Cathie Wood
+Bill Ackman
 Koch Brothers
-Bernie Sanders
-Alexandria Ocasio Cortez
-Xiaomi
-George Carlin
+
+John Oliver
+George Carlin : The Awesome Philosopher
+Yuval Noah Harari
+Richard Dawkins
 Malcolm Gladwell
 Clayton Christensen
+
+Najam Sethi
+Ravish Kumar
+Narayan Murthy
+
+Plato
+Rene Descartes
+Immanuel Kant
+
+Freeman Dyson
+Xiaomi Innovation, CCP and Chinese Thinkers
+
+Andrew Yang
 
 ---
 
