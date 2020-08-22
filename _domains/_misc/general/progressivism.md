@@ -24,7 +24,9 @@ Bill Ackman
 Koch Brothers
 
 John Oliver
-George Carlin : The Awesome Philosopher
+
+The Modern Philosophers
+George Carlin
 Yuval Noah Harari
 Richard Dawkins
 Malcolm Gladwell
