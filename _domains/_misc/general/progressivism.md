@@ -4,11 +4,11 @@
 
 ### Diversity of Thought and Opinions
 
-Larry Page
-Elon Musk
 Jeff Bezos
-Bill Gates
 Steve Jobs
+Elon Musk
+Bill Gates
+Larry Page
 
 Chamath Palihapitiya
 Peter Thiel
