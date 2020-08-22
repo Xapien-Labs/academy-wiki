@@ -41,6 +41,8 @@ Rene Descartes
 Immanuel Kant
 
 Freeman Dyson
+Jen Heemstra
+Yann LeCun
 Xiaomi Innovation, CCP and Chinese Thinkers
 
 Andrew Yang
