@@ -18,6 +18,9 @@ Vinod Khosla
 
 Francois Chollet
 Joshua Tenebaum
+Freeman Dyson
+Jen Heemstra
+Yann LeCun
 
 Cathie Wood
 Bill Ackman
@@ -31,6 +34,9 @@ Yuval Noah Harari
 Richard Dawkins
 Malcolm Gladwell
 Clayton Christensen
+Thomas Sowell
+Peter Robinson
+Morgan Freeman
 
 Najam Sethi
 Ravish Kumar
@@ -40,9 +46,6 @@ Plato
 Rene Descartes
 Immanuel Kant
 
-Freeman Dyson
-Jen Heemstra
-Yann LeCun
 Xiaomi Innovation, CCP and Chinese Thinkers
 
 Andrew Yang
