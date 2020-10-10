@@ -16,8 +16,7 @@
 * [2. Mathematics](_domains/_maths/maths.md)
 
   - [Basic](_domains/_maths/_basic/basic.md)
-    - [Information Theory]
-    -
+    - [Information Theory](_domains/_maths/_basic/basic.md)
   - [Logic&Reasoning](_domains/_maths/logic.md)
   - [Research](_domains/_maths/advanced.md)
 
@@ -151,7 +150,7 @@
 
   - [Semiconductor industry](_domains/_eng/_semi/semi.md)
 
-    - [Tools](_domains/_eng/_semi/semi.md)
+    - [CAD Tools](_domains/_eng/_semi/semi.md)
     - [Digital Design](_domains/_eng/_semi/semi.md)
     - [Analog Design and RF-IC](_domains/_eng/_semi/semi.md)
     - [Devices](_domains/_eng/_semi/semi.md)
@@ -196,20 +195,20 @@
     - Semiconductor, Telecommunications and Advanced Electronics
     - Automotive and Assembly
     - Power and Energy
-    - Manunfacturing and Construction, Mining, Chemicals 
-    - Supply Chain, Transportation and Logistics  
+    - Manunfacturing and Construction, Mining, Chemicals
+    - Supply Chain, Transportation and Logistics
     - Aerospace, Defense and Space
-    - HealthCare as a Service 
+    - HealthCare as a Service
     - Education, Publishing, Conferences and Events
-    - SaaS, Marketing, Sales 
-    - Artifical Intelligence 
+    - SaaS, Marketing, Sales
+    - Artifical Intelligence
     - Financial Sector
     - Entertainment, Sports, Gaming, Dating etc
-    - Mixed Reality 
-    - Law and Justice, IP 
-    - Gig and Remote 
-    - Biology, Pharma, Biotechnology, Therapeutics 
-    - Food and Agriculture 
+    - Mixed Reality
+    - Law and Justice, IP
+    - Gig and Remote
+    - Biology, Pharma, Biotechnology, Therapeutics
+    - Food and Agriculture
   - [Startups](_domains/_startups/startups.md)
   - Basic Knowledge
     - [Product Management](_domains/_startups/startups.md)
