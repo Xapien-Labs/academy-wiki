@@ -1,15 +1,15 @@
-## Advice and Learnings given by Xapien Academy to its students 
+## Advice and Learnings
 
-## Building Portfolio and Resume 
+## Building Portfolio and Resume
 
-## For internships 
+## For internships
 
-## For jobs 
+## For jobs
 
 ## For doing research
 
 ### Writing papers and reviews
 
-### Doing research 
+### Doing research
 
-### Reputation Laundering 
+### Reputation Laundering

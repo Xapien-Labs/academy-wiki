@@ -1,5 +1,3 @@
 ## Prequisites
 
-## Covering Middle and Some portions of High School Fast : Playlist app
-
-### Simple tests will be here : SAT, GRE-type
+## Covering Middle and Portions of High School Fast : Playlists, Tests will be here : SAT, GRE-type

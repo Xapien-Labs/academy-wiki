@@ -1,12 +1,10 @@
 ## Online Tests
 
-- One-to-One Interviews/AI-based Viva
-
-- Objective Tests
+- One-to-One Orals/AI-based Viva
 
 - Practicals
 
-- Subjective Tests/Assignments
+- Assignments
 
 - Projects
 
