@@ -19,6 +19,7 @@ Vinod Khosla
 Francois Chollet
 Joshua Tenebaum
 Sergey Levine
+Laura Denming
 Chelsea Finn
 Laurent Simons
 Freeman Dyson
