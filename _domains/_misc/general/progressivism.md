@@ -24,6 +24,9 @@ Laurent Simons
 Freeman Dyson
 Jen Heemstra
 Yann LeCun
+Terence Tao
+Cedric Villani
+Richard Feynman
 
 Cathie Wood
 Bill Ackman
