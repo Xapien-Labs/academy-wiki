@@ -1,43 +1,60 @@
 ## Progressivism
 
-### Mental Models 
+### Mental Models
 
-### Diversity of Thought and Opinions 
+### Diversity of Thought and Opinions
 
-Larry Page
-Elon Musk
 Jeff Bezos
-Marc Andreesen
+Steve Jobs
+Elon Musk
 Bill Gates
-Naval Ravikant
-Peter Thiel
+Larry Page
+
 Chamath Palihapitiya
-Cathie Wood
-Francois Chollet
+Peter Thiel
+Naval Ravikant
+Marc Andreesen
 Vinod Khosla
-CCP and Chinese Thinkers
-Greta Thunberg
-Andrew Yang
-Narayan Murthy
-Rene Descartes
-Immanuel Kant
-Plato 
-Friedrich Nietzsche
-Freeman Dyson
-Najam Sethi
-Jacinda Ardern
+
+Francois Chollet
 Joshua Tenebaum
-Koch Brothers
-Bernie Sanders 
-Alexandria Ocasio Cortez
-Xiaomi 
 Sergey Levine
 Chelsea Finn
 Laurent Simons
+Freeman Dyson
+Jen Heemstra
+Yann LeCun
 
+Cathie Wood
+Bill Ackman
+Koch Brothers
+
+John Oliver
+
+The Modern Philosophers
+George Carlin
+Yuval Noah Harari
+Richard Dawkins
+Malcolm Gladwell
+Clayton Christensen
+Thomas Sowell
+Peter Robinson
+Morgan Freeman
+
+Najam Sethi
+Ravish Kumar
+Narayan Murthy
+
+Plato
+Rene Descartes
+Immanuel Kant
+
+Xiaomi Innovation, CCP and Chinese Thinkers
+
+Andrew Yang
 
 ---
 
 Maths is always better than empathy : but both can be combined
 
-### Learning 
+### Learning

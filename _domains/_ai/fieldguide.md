@@ -21,6 +21,6 @@
 
 ## Computational Creativity
 
-### How are we going to get there ?
+### How are we going to get there :
 
 # Curated Pathway to Learning :

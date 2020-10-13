@@ -90,3 +90,50 @@ https://ocw.mit.edu/courses/biology/7-88j-protein-folding-and-human-disease-spri
 ## Reviews
 
 https://www.annualreviews.org/
+
+---
+
+Small Molecule Drugs and Technologies
+
+---
+
+USP1 inhibitors, DNA repair targets (PI: Alan D’Andrea, MD)
+STAT function modulators (PI: David Frank, MD, PhD)
+Irreversible and reversible kinase inhibitors, protein degradation, protease inhibitors (PI: Nathanael Gray, PhD)
+Thalidomide and its derivatives and proteasome inhibitor (PS341) as new treatments for multiple myeloma (PI: Paul Richardson, MD)
+Small molecule inhibitors of Bax, MCL-1; stapled peptides (PI: Loren Walensky, MD, PhD)
+Small molecule activators of peptide loading on MHC Class II (PI: Kai Wucherpfennig, MD, PhD)
+
+---
+
+Antibody and protein drugs, targets and technologies
+
+---
+
+Multiple myeloma targets; small molecule immunomodulators (PI: Kenneth Anderson, MD)
+CD-8 Treg/Qa-1 peptide interactions in tumor and auto-immunity; MINK kinase involved in self-tolerance (PI: Harvey Cantor, MD)
+Tetramer-based identification of new antigens and antibodies from vaccinated cancer patients (PIs: Frank Hodi, MD/Kai Wucherpfennig, MD, PhD)
+Genetic changes in lung cancers and pre-cancerous lung lesions and identification of molecular therapeutic targets in malignant pleural mesothelioma (PI: Pasi Jänne, MD, PhD)
+Developing approaches that block MUC1-C subunit function with soluble receptors and antibodies against the MUC1-C extracellular domain (PI: Donald Kufe, MD)
+USP2a, androgen responsive and over expressed in prostate tumors, and regulates the stability of fatty acid synthase (FAS), essential for tumor cell survival (PI: Max Loda, MD)
+
+Human antibody engineering platform; several candidate antibodies (PI: Wayne Marasco, MD, PhD)
+Proteomics-based methods for in-depth analysis of key molecular events in tumorigenesis (PI: Jarrod Marto, PhD)
+Lung cancer gene alterations. Sequencing protein kinase, identification of BRAF mutations in lung adenocarcinoma and EGFR mutations in lung adenocarcinoma (PI: Matt Meyerson, MD, PhD)
+Non-coding RNAs, Programmable DNA methylation, and engineering T cells for immunotherapy (PI: Carl Novina, MD, PhD)
+Tumor microenvironment in breast tumorigenesis, autocrine/paracrine interactions and breast stem cell characterization (PI: Ellis L. Reinherz, MD)
+Lymphocyte recognition of antigen and the process of T cell activation and differentiation. Structure-function relationship of the T cell receptor (TCR) for antigen in MHC products (CD3-Ti), CD2 and CD4 (PI: Kornelia Polyak, MD, PhD)
+Characterization of immune reconstitution following allogeneic hematopoietic stem cell transplantation 2 (PI: Jerome Ritz, MD)
+Translational research on cyclin-dependent kinase inhibitors (p16ink4a) (PI: Geoffrey Shapiro, MD, PhD)
+Galectin 1 antibodies for cancer therapy; animal models of lymphoma (PI: Margaret Shipp, MD)
+Oncogene alterations directly from tumor specimens. CRLF2 cytokine receptor, an essential oncogene in 5-10% of adult and pediatric acute lymphoblastic leukemia (PI: David Weinstock, MD)
+
+---
+
+Cancer Immunology
+
+---
+
+Precision Cancer Medicine
+
+---

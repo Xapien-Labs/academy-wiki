@@ -1,7 +1,5 @@
 CppCon 2017 : https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6
 
-Operating Systems : https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k
-
 Watch Me Build: https://www.youtube.com/playlist?list=PL2-dafEMk2A4n3aP_rzgqA8lVGknkSN2p
 
 Maps of Knowledge : https://www.youtube.com/playlist?list=PLrPZnrocm3Lti21lkP-11pMVM-gP-KIi_
@@ -36,247 +34,44 @@ Deep Learning Lectures: https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4s
 
 Gene : https://www.pbs.org/show/gene/
 
-name
-3Blue1Brown
-a16z
-Abhishek Upmanyu
-Academind
-ACMSIGGRAPH
-Adobe Creative Cloud
-AI Journal
-AI Pursuit - Angus Tay
-Aidan Blunt
-ALL ABOUT ELECTRONICS
-All Things JavaScript, LLC
-Allen Institute for AI
-Amazon Web Services
-AMBOSS: Medical Knowledge Distilled
-Amoeba Sisters
-Anand
-Andrew Ng
-ARK Invest
-Armando Hasudungan
-Artificial Intelligence - All in One
-Arxiv Insights
-ASGCT
-Association for Computing Machinery (ACM)
-Atlas Venture
-Aurélien Géron
-AWS Online Tech Talks
-Bad Lip Reading
-BazBattles
-Because Science
-Big Think
-Bill Gates
-Bio-Resource
-Bite-sized Philosophy
-Black Hat
-BLACKPINK
-Bloomberg
-bluebird bio
-BMF
-Boston Children's Hospital
-Boston Dynamics
-Cadence Design Systems
-Carnegie Mellon University Deep Learning
-Cerebras Systems
-Classsed
-CMU Database Group
-CNBC Make It.
-Coding Blocks
-Coding Garden with CJ
-Coding Tech
-ColdFusion
-commaai archive
-ComputerVisionFoundation Videos
-CppCon
-CrashCourse
-CS294-158 Deep Unsupervised Learning SP19
-CS50
-DAC TV
-DeepMind
-Devoxx
-Domain of Science
-Dr. Minass
-Dr. Najeeb Lectures
-DripReport
-DUST
-Eric Weinstein
-Extra Credits
-Facebook Developers
-Firebase
-Fireship
-freeCodeCamp.org
-Future of Life Institute
-Futurism
-Galvanize
-GameofThrones
-Gaurav Sen
-GitKraken
-Google Chrome Developers
-Google Cloud Platform
-Google Developers
-Gopher Academy
-GOTO Conferences
-Handmade Hero
-Handwritten Tutorials
-Harvard Innovation Labs
-HASSELL
-Houdini
-House M.D.
-iBiology
-iBiology Science Stories
-iBiology Techniques
-IBM Research
-ICML IJCAI ECAI 2018 Conference Videos
-IEEE Spectrum
-Inside Silicon Valley
-Isaac Arthur
-ISSCC Videos
-It's Okay To Be Smart
-Jeremy Howard
-John Hammond
-JSConf
-Kenhub - Learn Human Anatomy
-KnowledgeHub
-Kurzgesagt – In a Nutshell
-LastWeekTonight
-Learn Engineering
-Lectures by Walter Lewin. They will make you ♥ Physics.
-Lecturio Medical
-Lex Clips
-Lex Fridman
-linux.conf.au
-Lockheed Martin
-Machine Learning and AI Academy
-Marcus House
-Massachusetts Institute of Technology (MIT)
-Matthias Niessner
-McGovern Institute
-MedCram - Medical Lectures Explained CLEARLY
-Medmastery
-Medzcool
-melodysheep
-Michael ee
-Microsoft Mechanics
-Microsoft Research
-Mission 100kft
-MIT 6.824: Distributed Systems
-MIT Bootcamps
-MIT Institute for Data, Systems, and Society
-MIT OpenCourseWare
-MIT School of Engineering
-MIT Sloan Executive Education
-MIT Video Productions
-Mitch Manly
-MITCSAIL
-Mr Bean
-Nando de Freitas
-NASA
-NASA Jet Propulsion Laboratory
-National Geographic
-National Organization for Rare Disorders (NORD)
-Naval
-NDC Conferences
-Netflix Is A Joke
-Neuralink
-Nobel Prize
-NourFoundation
-Novartis
-NT Productions
-Numberphile
-NVIDIA
-NVIDIA Developer
-Oculus
-OECD
-OnlineMedEd
-Onur Mutlu Lectures
-OpenAI
-Osmosis
-Oxford Medical Education
-Patriot Act
-PBS Space Time
-Pfizer
-PicmonicVideo
-Pioneer
-PipelineAI
-PowerfulJRE
-Primal Space
-Principles by Ray Dalio
-ProApp Learn Design
-Pursuit of Wonder
-PyCon 2018
-PyData
-Quantum Gravity Research
-Rachit Jain
-Rajeev Balasubramonian
-React UI Kit
-ReactEurope
-Recode
-Red Hat Summit
-Retake Entertainment
-RITVIZ
-Robotic Systems Lab
-SaaStr
-SciShow Space
-Second Thought
-Seeker
-sentdex
-Sequoia Capital
-Siraj Raval
-SketchUp
-Slayy Point
-Slidebean: Startups 101
-SMS Music Videos
-space and astronomy
-SpaceRip
-SpaceX
-Speed Pharmacology
-Sprouts
-Stadia
-Stanford
-Stanford Department of Medicine
-Stanford Graduate School of Business
-Stanford Medicine 25
-stanfordonline
-Stellaris - Topic
-Strong Medicine
-Student_Council
-Studio Zindeed Technical Explainer Animations
-SysML Conference
-Tanmay Bhat
-Tech Insider
-Tech Takshila
-TechCrunch
-TED
-TensorFlow
-The Artificial Intelligence Channel
-The Boring Company
-The Noted Anatomist
-The Stanford Fleet Street Singers
-The TWIML AI Podcast with Sam Charrington
-The Weeknd
-thenewboston
-This Week In Startups
-Traversy Media
-Trevor Noah
-Twilio
-TWiST Clips
-Two Minute Papers
-USENIX
-USENIX Enigma Conference
-V. Ramgopal Rao
-Varun Thakur
-Verge Science
-Veritasium
-VICE News
-Virgin Hyperloop One
-Virtual Insider
-Walt Disney Studios
-Web Dev Simplified
-What If
-William Candillon
-WUSM 2021
-XilinxInc
-Y Combinator
-YourStory
+Vivado QuickTake Tutorials : https://www.youtube.com/playlist?list=PL35626FEF3D5CB8F2
+
+Cuda Casts : https://www.youtube.com/playlist?list=PL5B692fm6--vScfBaxgY89IRWFzDt0Khm
+
+Immunology : https://www.youtube.com/playlist?list=PLXwMdtHQav9bwkYjX1frWSlaO7cN7WLSW
+
+The Great Minds of the Western Intellectual Tradition (1992) : https://www.youtube.com/playlist?list=PLez3PPtnpncT3FVrZqrLGllGpOf4HXJFh
+
+MIT 6.828: Operating System Engineering : https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP
+
+Essence of calculus : https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+How It’s Made : https://www.youtube.com/playlist?list=PLy8Qi88tra9tS91v1RvfBfphL_6WWIl5y
+
+CS191x MOOC Lectures (Quantum Computing) : https://www.youtube.com/playlist?list=PLDAjb_zu5aoFazE31_8yT0OfzsTcmvAVg
+
+Write your own Operating System : https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
+
+Technology-enabled Blitzscaling : https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--
+
+Vivado HLS Course Training : https://www.youtube.com/playlist?list=PLo7bVbJhQ6qzK6ELKCm8H_WEzzcr5YXHC
+
+Immunology Lecture Series : https://www.youtube.com/playlist?list=PLIHnZ4fK_IyJaH2WNHIk2cFsnR2UM4z7t
+
+How to Make Android Apps : https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh
+
+Operating Systems : https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq
+
+CS 377 Spring '14: Operating Systems : https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k
+
+Provost's Lectures : https://www.youtube.com/playlist?list=PL913938DD774F23D9
+
+Learn from the Pros - Premiere Pro : https://www.youtube.com/playlist?list=PLD8AMy73ZVxVR7Ezt92JzELXSAVU3Iukp
+
+Reel Truth Science Documentaries : https://www.youtube.com/watch?v=01VX_KAjsXU&list=RDCMUCZSE95RmyMUgJWmfra9Yx1A
+
+Microbiology : https://www.youtube.com/playlist?list=PL058E6F6BDEA23661
+
+Biochemistry & Biophysics : https://www.youtube.com/playlist?list=PLEFE6DCDE48108A95
+
+Electronics - VLSI Data Conversion Circuits : https://www.youtube.com/playlist?list=PL2135D8A0F7441AE1

@@ -1641,39 +1641,6 @@ Through the wormhole stories etc
 - [Penguinz0](https://www.youtube.com/user/penguinz0)
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Queen of shitty robots.
 
-## General
-
-- [Asap science](https://www.youtube.com/user/AsapSCIENCE/videos)
-- [Big Think](https://www.youtube.com/user/bigthink/videos)
-- [Brain craft](https://www.youtube.com/user/braincraftvideo/videos)
-- [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
-- [Conjecture](https://www.youtube.com/user/conjecturevlog/videos)
-- [Crash course](https://www.youtube.com/user/crashcourse/videos)
-- [In a nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
-- [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart/videos)
-- [PBS idea channel](https://www.youtube.com/user/pbsideachannel/videos)
-- [Periodic videos](https://www.youtube.com/user/periodicvideos/videos)
-- [Sally Le Page](https://www.youtube.com/user/shedscience/videos)
-- [SciShow Kids](https://www.youtube.com/user/scishowkids/videos)
-- [SciShow Psych](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA/videos)
-- [SciShow](https://www.youtube.com/user/scishow/videos)
-- [Seeker](https://www.youtube.com/user/DNewsChannel/videos)
-- [Sixty symbols](https://www.youtube.com/user/sixtysymbols/videos)
-- [Smarter every day](https://www.youtube.com/user/destinws2/videos)
-- [Soliloquy](https://www.youtube.com/user/Soliloquy084/videos)
-- [Talks at Google](https://www.youtube.com/user/AtGoogleTalks/videos) - Brings authors, musicians, innovators, and speakers for talks centering on their recently published books and capturing the zeitgeist of the day.
-- [Technicality](https://www.youtube.com/user/TechnicalityTime/videos)
-- [TED-Ed](https://www.youtube.com/user/TEDEducation/videos)
-- [TED](https://www.youtube.com/user/TEDtalksDirector/videos)
-- [The gates notes](https://www.youtube.com/user/thegatesnotes/videos)
-- [TheGoodStuff](https://www.youtube.com/user/TheGoodStuff/videos)
-- [Think fact](https://www.youtube.com/user/Thinkjijok/videos)
-- [Tom Scott](https://www.youtube.com/user/enyay/videos)
-- [Veritasium](https://www.youtube.com/user/1veritasium/videos)
-- [VSauce2](https://www.youtube.com/user/Vsauce2/videos)
-- [VSauce3](https://www.youtube.com/user/Vsauce3/videos)
-- [VSauce](https://www.youtube.com/user/Vsauce/videos)
-
 ## Go
 
 - [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
