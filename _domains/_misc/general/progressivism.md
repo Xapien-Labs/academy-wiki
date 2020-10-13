@@ -31,6 +31,10 @@ Koch Brothers
 Bernie Sanders 
 Alexandria Ocasio Cortez
 Xiaomi 
+Sergey Levine
+Chelsea Finn
+Laurent Simons
+
 
 ---
 
