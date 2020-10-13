@@ -27,6 +27,10 @@ Yann LeCun
 Terence Tao
 Cedric Villani
 Richard Feynman
+Steven Weinberg
+Edward Witten
+Grep Proops 
+Mensa—which accepts those with a minimum IQ of 132, one of every fifty people—clubs like the Triple 9 Society, the Prometheus Society, and the Mega Society (with IQ requirements of 148, 164, and 176) provide electronic fellowship to an eccentric, far-flung population known as HiQ Society
 
 Cathie Wood
 Bill Ackman
