@@ -1,7 +1,5 @@
-## Covering blue-collar and grey-collar jobs
+## Futurism
 
-## Still a Short guide to getting these jobs
+### Future Society
 
-## What kind of blue-collar jobs can be taken and how to get them ?
-
-## What kind of grey-collar jobs can be taken and how to get them ?
+### Sci-fi -> Realistic Possibilities
