@@ -355,3 +355,6 @@ https://www.usmle-rx.com/products/step-1-express-videos/ | Step 1 Express Videos
 https://members.drbeen.com/browse | Browse DrBeen Study Materials | drbeen
 https://www.doctorsintraining.com/ | Doctors In Training | USMLE : Step 1, Step 2 CK :: COMLEX : Level 1, Level 2 :: Pharmacology, Anatomy, Internal Medicine, OB/GYN
 https://www.pathoma.com/ | Pathoma | USMLE Step 1 and Medical Course Review
+
+
+### Medical Genetics
