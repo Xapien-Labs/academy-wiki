@@ -1,5 +1,3 @@
-## Advice and Learnings
-
 ## Building Portfolio and Resume
 
 ## For internships
@@ -11,5 +9,3 @@
 ### Writing papers and reviews
 
 ### Doing research
-
-### Reputation Laundering

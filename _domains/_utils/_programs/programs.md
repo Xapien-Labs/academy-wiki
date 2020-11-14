@@ -1,14 +1,19 @@
-### HighSchoolX or SecondaryX
+### HighSchoolX or SecondaryX : Take a preq exam for further, notes help or learning etc
 
-: Take a preq exam for further, notes help or learning etc
-### Seminars and Book Clubs ?
-### BachelorsX
+### Seminars
+
 ---
+
+### BachelorsX
+
+---
+
 What modules should be completed, to qualify for these ?
-- Biology : 
-- Chemistry : 
+
+- Biology :
+- Chemistry :
 - Physics :
-- Mathematics : 
+- Mathematics :
 - CS :
 - AI :
 - Eng :
@@ -28,16 +33,18 @@ What modules should be completed, to qualify for these ?
 
 ---
 
-
 ### PhDX
+
 ---
 
-Quals, Publications and Thesis 
+Quals, Publications and Thesis
 
-### Medicine 
+### Medicine
+
 ---
 
-### General Requirements 
+### General Requirements
+
 ---
 
 WAY-A-IR: Aesthetic and Interpretive Inquiry
@@ -60,7 +67,9 @@ EC-EthicReas: Ethical Reasoning
 EC-EthicReas: Ethical Reasoning
 
 ---
+
 ## School of Architecture and Planning
+
 Architecture (Course 4)
 
 Art and Design (Course 4-B)
@@ -68,6 +77,7 @@ Art and Design (Course 4-B)
 Planning (Course 11)
 
 ## School of Engineering
+
 Aerospace Engineering (Course 16)
 
 Archaeology and Materials as Recommended by the Department of Materials Science and Engineering (Course 3-C)
@@ -107,6 +117,7 @@ Mechanical Engineering (Course 2)
 Nuclear Science and Engineering (Course 22)
 
 ## School of Humanities, Arts, and Social Sciences
+
 Anthropology (Course 21A)
 
 Comparative Media Studies (CMS)
@@ -142,6 +153,7 @@ Theater Arts (Course 21M-2)
 Writing (Course 21W)
 
 ## Sloan School of Management
+
 Business Analytics (Course 15-2)
 
 Finance (Course 15-3)
@@ -149,6 +161,7 @@ Finance (Course 15-3)
 Management (Course 15-1)
 
 ## School of Science
+
 Biology (Course 7)
 
 Brain and Cognitive Sciences (Course 9)
@@ -164,6 +177,7 @@ Mathematics with Computer Science (Course 18-C)
 Physics (Course 8)
 
 ## Interdisciplinary Programs
+
 Chemistry and Biology (Course 5-7)
 
 Computation and Cognition (Course 6-9)
@@ -175,6 +189,7 @@ Computer Science, Economics, and Data Science (Course 6-14)
 Urban Science and Planning with Computer Science (Course 11-6)
 
 <!-- Graduate Programs -->
+
 School of Architecture and Planning
 Art, Culture and Technology (SMACT)
 
@@ -198,7 +213,3 @@ Technology and Policy
 Transportation
 
 http://timroughgarden.org/
-
-### Complete Tests : Award yourself an online degree, we dont any degrees online. We believe in you and your effort. Since, most degrees are just a piece of paper, we want to make sure that your integrity and honesty are paramount to learning. Tests are available to ground your understanding, improve your skills and push you to the path of success. 
-
-### It is absolutely necessary that we award you the degreees, on the pretext of you yourself awarding that degree to you. 
