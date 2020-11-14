@@ -35,3 +35,5 @@
 # Big Goals of the Domains :
 
 # Curated Pathway to Learning :
+
+Top Papers : [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)

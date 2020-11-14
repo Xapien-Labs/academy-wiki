@@ -151,3 +151,6 @@ Cancer Immunology
 Precision Cancer Medicine
 
 ---
+
+- [Gut Feelings Begin in Childhood: the Gut Metagenome Correlates with Early Environment, Caregiving, and Behavior](https://mbio.asm.org/content/mbio/11/1/e02780-19.full.pdf)
+- [Insilico publishes a review of deep aging clocks and announces the issuance of key patent](https://www.eurekalert.org/pub_releases/2019-12/im-ipa120519.php)
