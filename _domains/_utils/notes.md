@@ -89,18 +89,6 @@
 
 ---
 
-# Problems and Snares
-
----
-
----
-
-# Tests and Indicators of Potential
-
----
-
----
-
 # Careers
 
 ## Internships
@@ -115,9 +103,7 @@
 
 ---
 
-
-
-Content Divison 
+Content Divison
 
 ---
 
@@ -127,9 +113,9 @@ Classic Academic :
 
 Cutting-Edge Research :
 
---- 
+---
 
-Content Types and Other Miscellaneous Resources 
+Content Types and Other Miscellaneous Resources
 
 ---
 
@@ -137,10 +123,10 @@ Youtube Channels
 
 Audio and Podcasts
 
-Code 
+Code
 
-News Sources 
+News Sources
 
-Twitter Feeds 
+Twitter Feeds
 
 Wikis and Blogs etc
