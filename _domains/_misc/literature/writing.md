@@ -38,3 +38,11 @@
 
 Stephen King Memoir of the Craft : Books at the end
 Normal people
+
+## Fiction 
+
+- Sci-Fi/Historical (Gaming is Active and Engaging) Exploration: VR:  Awesome features, cool and great graphics, collaboration and teams
+
+- TV Series: Universe Building, Character Building, Depths and Capabilities of each character, message -> conveyed, morals and values, character relationships and dynamics.
+
+## Non-Fiction
