@@ -24,3 +24,5 @@ Urban Systems
 Global Systems
 
 Basic Mechanics,Fluid Mechanics, Strength of Material, Limit State Design, Steel Structures, Building Construction, Highway Design, Railway and Airport Design,Hydraulic Structures, Irrigation Engineering, Environmental Engineering, Estimation-Costing, Planning and a bunch of software like AutoCAD, STAAD
+
+## Construction Industry and Knowledge
