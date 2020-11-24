@@ -260,5 +260,5 @@
 
 * [20. Utils](_domains/_utils/utils.md)
   - [Programs](_domains/_utils/_programs/programs.md)
-  - [Job Paths](_domains/_utils/_careers/careers.md)
+  - [Job Paths and Career Guide](_domains/_utils/_careers/careers.md)
   - [Research Field Guide Template](_domains/_utils/_research/fieldguide.md)
