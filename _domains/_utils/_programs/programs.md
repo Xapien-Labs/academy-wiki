@@ -48,22 +48,12 @@ Quals, Publications and Thesis
 ---
 
 WAY-A-IR: Aesthetic and Interpretive Inquiry
+
 WAY-AQR: Applied Quantitative Reasoning
-WAY-CE: Creative Expression
-WAY-ED: Engaging Diversity
-WAY-ER: Ethical Reasoning
 WAY-FR: Formal Reasoning
-WAY-SI: Social Inquiry
 WAY-SMA: Scientific Method and Analysis
 DB-EngrAppSci: Engineering and Applied Sciences
-DB-Hum: Humanities
-DB-Math: Mathematics
-DB-NatSci: Natural Sciences
-DB-SocSci: Social Sciences
-EC-AmerCul: American Cultures
 EC-GlobalCom: Global Community
-EC-Gender: Gender Studies
-EC-EthicReas: Ethical Reasoning
 EC-EthicReas: Ethical Reasoning
 
 ---
