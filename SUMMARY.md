@@ -77,7 +77,7 @@
     - [Back End](_domains/_dev/_web/web.md)
     - [Devops](_domains/_dev/_web/web.md)
     - [Architect and System Design](_domains/_dev/_web/web.md)
-    - [DataOps](_domains/_dev/_web/web.md)
+    - [Analytics](_domains/_dev/_web/web.md)
     - [Security/Hacking](_domains/_eng/_misc/misc.md)
   - [Mixed Reality (AR/VR)](_domains/_dev/_xr/xr.md)
 
@@ -92,7 +92,6 @@
 
 - [7. Computer Science](_domains/_eng/_cs/cs.md)
   - [Tools](_domains/_eng/_cs/cs.md)
-  - [Data Science](_domains/_eng/_cs/cs.md)
   - [Programming Languages](_domains/_eng/_cs/cs.md)
   - [Data Structures](_domains/_eng/_cs/cs.md)
   - [Algorithms](_domains/_eng/_cs/cs.md)
@@ -210,7 +209,7 @@
     - Biology, Pharma, Biotechnology, Therapeutics
     - Food and Agriculture
   - [Startups](_domains/_startups/startups.md)
-  - Basic Knowledge
+  - Subjects
     - [Product Management](_domains/_startups/startups.md)
     - [Finance](_domains/_startups/startups.md)
     - [Marketing](_domains/_startups/startups.md)
@@ -260,11 +259,6 @@
   - [Language](_domains/_misc/literature/literature.md)
 
 * [20. Utils](_domains/_utils/utils.md)
-  - [All Programs](_domains/_utils/_programs/programs.md)
-  - [All Modules](_domains/_utils/_programs/modules.md)
-  - [Labs](_domains/_utils/_programs/labs.md)
-  - [Careers](_domains/_utils/_careers/careers.md)
-  - [Job Statistics](_domains/_utils/_careers/careers.md)
-  - [Tests](_domains/_utils/_tests/tests.md)
+  - [Programs](_domains/_utils/_programs/programs.md)
+  - [Job Paths](_domains/_utils/_careers/careers.md)
   - [Research Field Guide Template](_domains/_utils/_research/fieldguide.md)
-  - [Build Template](_domains/_utils/_build/build.md)
