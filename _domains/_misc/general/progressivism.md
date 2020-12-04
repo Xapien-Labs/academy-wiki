@@ -2,8 +2,6 @@
 
 ### Mental Models
 
-### Diversity of Thought and Opinions
-
 Elon Musk
 Steve Jobs
 Bill Gates
@@ -48,7 +46,5 @@ Rene Descartes
 CCP and Chinese Thinkers
 Andrew Yang
 
----
 
 
-### Learning
