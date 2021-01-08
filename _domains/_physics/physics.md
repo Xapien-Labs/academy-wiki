@@ -69,3 +69,6 @@ Surely you'are joking Mr. Feynman
 - [SciShow Space](https://www.youtube.com/user/scishowspace/videos)
 - [StarTalk](https://www.youtube.com/user/startalkradio/videos) - Astrophysicist Neil deGrasse Tyson discuss astronomy, physics, and everything else about life in the universe.
 - [The Science Asylum](https://www.youtube.com/channel/UCXgNowiGxwwnLeQ7DXTwXPg) - At the Science Asylum, we present anything related to science from the point of view of Nick Lucid.
+
+
+https://www.youtube.com/c/physicsdemos/playlists
