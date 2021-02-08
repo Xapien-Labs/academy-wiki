@@ -169,7 +169,6 @@ https://twitter.com/ESCMID
 http://twitter.com/MicrobioSoc
 https://twitter.com/JCellBiol
 https://twitter.com/JAMA_current
-
 https://www.youtube.com/watch?v=QdYuibhnUuE : Immune System
 Suggested Textbooks
 Basic College Biology: Campbell Biology
@@ -221,7 +220,8 @@ Chemistry https://discord.sg/chemistry
 Organic Chemistry https://bit.ly/2UDjAop
 Computer Science https://discord.sg/cs 
 Spacecord https://discord.me/spacecord
-
+BioCord : https://discord.gg/biology
+ 
 ThisGloriousClockwork @clockworkshow: https://www.youtube.com/c/ThisGloriousClockwork/
 TheBrainyHeart @legend4118: https://www.youtube.com/c/TheBrainyHeart
 
