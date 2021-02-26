@@ -1,19 +1,9 @@
-- Noticing : Adaptability vs Radical Change
-- Noticing : Cooperation vs Competition b/w Countries
-- Noticing : Will it happen by serendepidity or market forces, or will it has to be executed forcibly from wealth and power : Have to track and influence these things
-- More remote work, bio acceleration starts, effects on wages
-- Crop-Burning/Pollution, Nuclear Fission Power, Solar, Better Batteries, Better Construction
-- Free knowledge sharing and patent mining makes things easier to replicate
-- Governance kicks in : Analytics/Consulting/Influence and Public Policy suggestions for Governance. Other ways to help governments
-- Cultural Engineering across all markets
-- New Banking systems, US Dominance Over, dollar crash or wages decline (depending on trade policies)
-- India and China will grow fast by various methods : more education, better healthcare, poverty will fall drastically (New education and work scenarios and startups will play a big role)
-- We will move to sustainable energy solutions, Anti-Aging Solutions come to life
-- Systems Prevention of the capture of bad forces from our human society
-- Foundations help people kicks in (Mental Health Support to various people), India catches up fast with china (future predictions)
-- More development -> hence more freedom
-- New approaches to economics, taxes and federal policy planning : Simulation of virtual worlds with these policies as an example
-- Ushering change in understanding in the fields of economics and finance, Automation and Analytics of Governance
-- Islamist countries will decline from oil revenue, but will upskill their workforce
-- Sustaining Competitive Advantage and Free Knowledge Sharing under scrutiny again
-- Personalisation of medicine
+- Noticing : Adaptation, Cooperation & Threat Detection
+- Remote work, bio acceleration starts, Wage inequality starts reducing
+- Crop-Burning/Pollution, Nuclear Fission Power, Solar, Batteries, Construction
+- Knowledge sharing and patent mining : Distribution of tech
+- Governance kicks in : Analytics/Consulting/Influence and Public Policy suggestions for Governance.
+- Advances in Financial Systems, Currencies adjust to PPP, Easier Economics, taxes and federal policy planning
+- Fast growth in underdeveloped countries : Education, Healthcare, Poverty, Cultural Change, More Development -> More freedom (New education and work scenarios and startups will play a big role)
+- Sustainable energy, Anti-Aging, Precision medicine
+- Start a UBI fund
