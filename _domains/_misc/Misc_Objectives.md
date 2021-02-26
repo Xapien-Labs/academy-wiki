@@ -1,9 +1,10 @@
 - Noticing : Adaptation, Cooperation & Threat Detection
 - Remote work, bio acceleration starts, Wage inequality starts reducing
 - Crop-Burning/Pollution, Nuclear Fission Power, Solar, Batteries, Construction
-- Knowledge sharing and patent mining : Distribution of tech
+- Sustainable energy, Longevity, Precision medicine
+- Easy Knowledge sharing and patent mining : Distribution of tech
 - Governance kicks in : Analytics/Consulting/Influence and Public Policy suggestions for Governance.
 - Advances in Financial Systems, Currencies adjust to PPP, Easier Economics, taxes and federal policy planning
 - Fast growth in underdeveloped countries : Education, Healthcare, Poverty, Cultural Change, More Development -> More freedom (New education and work scenarios and startups will play a big role)
-- Sustainable energy, Anti-Aging, Precision medicine
+- 
 - Start a UBI fund
