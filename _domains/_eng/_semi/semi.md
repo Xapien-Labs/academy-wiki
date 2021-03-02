@@ -29,3 +29,45 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-720j-i
 # Circuits 
 
 # Architecture 
+
+
+Wayne Luk
+Chunsen Liu
+Xuehai Qian
+Shih-Lien Lu
+Yu Wang
+
+Trevor Mudge
+Dugyu Kuzum
+Scott Hauck
+
+Sayeef Salahuddin
+Tor M. Aamodt
+Kofi Makinwa
+
+Infectious Disease : Peter Daszak
+NanoTechnology : Andrea C. Ferrari, Kang L. Wang
+Material Science : Evan Reed
+Neuroscience : Terrence Sejnowski
+
+
+Bio 
+
+Vijay Pande
+Jason Buenrostro
+Michael J. Mina
+George Church
+Brent Stockwell
+
+BioEng
+Kevin Kit Parker
+Vannessa Tolosa
+
+Batteries
+Stanley Whittingham, Yi Cui
+
+Neuroscience Luciano Fadiga
+
+Quantum Chad Rigetti, Michael Nielsen
+
+Anti Aging : Richard Miller
