@@ -36,6 +36,7 @@ Chunsen Liu
 Xuehai Qian
 Shih-Lien Lu
 Yu Wang
+James C. Hone
 
 Trevor Mudge
 Dugyu Kuzum
