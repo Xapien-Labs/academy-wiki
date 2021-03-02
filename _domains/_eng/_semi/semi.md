@@ -31,26 +31,19 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-720j-i
 # Architecture 
 
 
-Wayne Luk
-Chunsen Liu
-Xuehai Qian
-Shih-Lien Lu
-Yu Wang
-James C. Hone
 
 Trevor Mudge
 Dugyu Kuzum
 Scott Hauck
-
+Shih-Lien Lu
 Sayeef Salahuddin
 Tor M. Aamodt
 Kofi Makinwa
 
 Infectious Disease : Peter Daszak
-NanoTechnology : Andrea C. Ferrari, Kang L. Wang
+NanoTechnology : Andrea C. Ferrari, Kang L. Wang, Chunsen Liu (2D Materials), James C. Hone
 Material Science : Evan Reed
 Neuroscience : Terrence Sejnowski
-
 
 Bio 
 
@@ -59,6 +52,7 @@ Jason Buenrostro
 Michael J. Mina
 George Church
 Brent Stockwell
+Yu Wang
 
 BioEng
 Kevin Kit Parker
