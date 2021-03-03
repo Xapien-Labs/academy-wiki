@@ -54,15 +54,12 @@ George Church
 Brent Stockwell
 Yu Wang
 
-BioEng
-Kevin Kit Parker
-Vannessa Tolosa
+BioEng : Kevin Kit Parker, Vannessa Tolosa
 
-Batteries
-Stanley Whittingham, Yi Cui
+Batteries : Stanley Whittingham, Yi Cui
 
-Neuroscience Luciano Fadiga
+Neuroscience : Luciano Fadiga
 
-Quantum Chad Rigetti, Michael Nielsen
+Quantum : Chad Rigetti, Michael Nielsen
 
-Anti Aging : Richard Miller
+Anti-Aging : Richard Miller
