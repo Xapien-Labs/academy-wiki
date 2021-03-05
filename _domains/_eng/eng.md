@@ -3,7 +3,8 @@
 ## Mechanical Engineering
 https://github.com/Mechatronics3D/SystemsEngineering/wiki
 ## Civil Engineering:
-
+https://www.youtube.com/c/PracticalEngineeringChannel/playlists
+https://www.youtube.com/c/RealEngineering/playlists
 ## Chemical Engineering:
 
 sRate of Innovation: Slow

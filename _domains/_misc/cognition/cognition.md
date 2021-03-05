@@ -1,34 +1,26 @@
-# Procedural Reading :
 
-<!-- Where  to Start from  -->
+## Books 
+    - Thinking Fast and Slow
 
-## MangaToon/Comics/Grimm Tales
+    - Six Easy Pieces
 
-## Books : Harry Potter
+    - Software Design Patterns
 
-## Freakonomics and SuperFreakonomics
+    - Surely you are joking Mr. Feynman, Six Easy Pieces
 
-## Thinking Fast and Slow
+    - Godel Escher Bach
 
-## Surely you are joking Mr. Feynman, Six Easy Pieces
+    - Utopia for Realists
 
-## Godel Escher Bach
+    - Sapiens
 
-## Utopia for Realists
+    - Lifespan why we age and why we don't have to
 
-## Sapiens
+    - The Gene : An Intimate History
 
-## Lifespan why we age and why we don't have to
+    - Zero to One
 
-## The Gene : An Intimate History
-
-## Zero to One
-
-## Homo Deus
-
-## Critical Thinking
-
-## Science
+    - Homo Deus
 
 - [📕 The structure of scientific revolutions (1962)](http://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions)
 - [📕 Cosmos (1980)](http://www.goodreads.com/book/show/55030.Cosmos)
@@ -36,3 +28,8 @@
 - [📕 The demon-haunted world (1995)](http://www.goodreads.com/book/show/17349.The_Demon_Haunted_World)
 - [📕 A short history of nearly everything (2003)](http://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 - [📕 What if? (2014)](http://www.goodreads.com/book/show/21413662-what-if)
+
+## Notes 
+    - Profoundness vs Pseudo-Profound Bullshit : Thin Line
+    - Semantic Knowledge : List of Semantic Concepts for Idea Generation
+    - 
