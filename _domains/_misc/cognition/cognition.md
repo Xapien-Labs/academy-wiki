@@ -32,4 +32,4 @@
 ## Notes 
     - Profoundness vs Pseudo-Profound Bullshit : Thin Line
     - Semantic Knowledge : List of Semantic Concepts for Idea Generation
-    - 
+    - Reasoning, Thinking and Mental Models

@@ -1,15 +1,4 @@
 # Curated Pathway to Learning:
 
-# Human Behaviour
+# Human Behaviour : Personality + Experiences + Randomness + Biology
 
-## Nature News Pieces/ Medium Pieces
-
-## Mental Models
-
-### Risk Aversion from Premature Failure
-
-## Feed Content and Sources
-
-## Pyschology
-
-## Persuasion
