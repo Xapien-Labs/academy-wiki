@@ -30,16 +30,6 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-720j-i
 
 # Architecture 
 
-
-
-Trevor Mudge
-Dugyu Kuzum
-Scott Hauck
-Shih-Lien Lu
-Sayeef Salahuddin
-Tor M. Aamodt
-Kofi Makinwa
-
 Infectious Disease : Peter Daszak
 NanoTechnology : Andrea C. Ferrari, Kang L. Wang, Chunsen Liu (2D Materials), James C. Hone
 Material Science : Evan Reed
