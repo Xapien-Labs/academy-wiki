@@ -180,13 +180,9 @@
 
 * [13. Miscellaneous](_domains/_misc/misc.md)
 
-  - [Collaboration](_domains/_misc/general/collaboration.md)
-  - [Human Behaviour](_domains/_misc/general/humanbehaviour.md)
-  - [Progressivism](_domains/_misc/general/innovation.md)
-  - [Disruptive Innovation](_domains/_misc/general/innovation.md)
+  - [Futurology](_domains/_misc/general/futurology.md)
+  - [People](_domains/_misc/general/people.md)
   - [Philosophy](_domains/_misc/general/philosophy.md)
-  - [Communication](_domains/_misc/general/communication.md)
-  - [Emotional Intelligence](_domains/_misc/general/emotionalq.md)
 
 - [14. Business](_domains/_startups/startups.md)
   - [Landspace and Industries](_domains/_startups/startups.md)
@@ -225,8 +221,7 @@
     - [History](_domains/_misc/social/social.md)
     - [Culture](_domains/_misc/social/social.md)
   - [Religious Studies](_domains/_misc/social/religiousstudies.md)
-  - [Global Studies](_domains/_misc/social/religiousstudies.md)
-  - [Field Guide](_domains/_misc/social/fieldguide.md)
+  - [Cultural Engineering](_domains/_misc/social/culture.md)
 
 - [16. Law](_domains/_misc/_law/law.md)
 
