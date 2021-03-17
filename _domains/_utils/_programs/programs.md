@@ -1,4 +1,4 @@
-### HighSchoolX or SecondaryX : Take a preq exam for further, notes help or learning etc
+### HighSchoolX or SecondaryX 
 
 ### Seminars
 
@@ -37,7 +37,7 @@ What modules should be completed, to qualify for these ?
 
 ---
 
-Quals, Publications and Thesis
+Publications/sThesis
 
 ### Medicine
 

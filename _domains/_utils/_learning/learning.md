@@ -2,7 +2,7 @@
 
 - Office Hours/ Forums (for doubts)
 
-- Group Discussions
+- Discussions
 
 - Projects
 
