@@ -1,6 +1,4 @@
-## Progressivism
-
-### Mental Models
+## People
 
 Elon Musk
 Steve Jobs

@@ -169,3 +169,124 @@ https://twitter.com/ESCMID
 http://twitter.com/MicrobioSoc
 https://twitter.com/JCellBiol
 https://twitter.com/JAMA_current
+https://www.youtube.com/watch?v=QdYuibhnUuE : Immune System
+Suggested Textbooks
+Basic College Biology: Campbell Biology
+Cell Biology: Molecular Biology of the Cell (Albert's), Molecular Cell Biology (Lodish)
+Genetics: Molecular Biology of the Gene
+A&P: Human Physiology (Silverthorn)
+Biochemistry: Lehniger Principles of Biochemistry
+Immunology: Immunology (Kuby) ,Immunobiology (Janeway)
+Zoology and Ichthyology: The Diversity of Fishes, Integrated Principles of Zoology, Invertebrates (Brusca)
+Vertebrate Zoology: Vertebrates: Comparitive Anatomy, Function, and Evolution (Kardong)
+Botany: Raven Biology of Plants
+Systems Biology: Intro to Systems Biology (Alon)
+Neuro: Principles of Neural Science (Kandel, Schwartz, Jessell), Neuroscience Exploring the Brain (Bear, Connors, Paradiso), Mind's Medicine, Neuroscience  (Purves)
+Myocology: 21st Century Guidebook to Fungi (Moore, Robson, Trinci)
+Biomaterials: Biomaterials Science (Ratner)
+(edited)
+
+
+Programming and Statistics
+Python Village: http://rosalind.info/problems/list-view/?location=python-village
+Good read for understanding statistics http://rctdesign.org/techreports/arphnonnormality.pdf
+Notes from Population Genetics UC Davis https://gcbias.org/population-genetics-notes/
+Notes from Evolutionary Quantitative Genetics Uppsala University http://nitro.biosci.arizona.edu/workshops/Uppsala2012/Uppsala.html
+Basic Syntax/uses of Python https://automatetheboringstuff.com/
+
+Other Textbook Resources
+Free R Textbook: https://gexijin.github.io/learnR/index.html
+r/Biology has a great list: https://www.reddit.com/r/biology/wiki/faq#Suggestedtextbooks
+Springer textbooks: https://www.reddit.com/r/learnmath/comments/hegmdi/free_springer_textbooks_categorised/
+LibreTexts Biology Library https://bio.libretexts.org/
+bioRxiv : https://www.biorxiv.org/
+
+
+Related Discord Servers
+The Medical Field https://bit.ly/2AJMXiL
+Bioinformatics https://bit.ly/2ZV3FnI
+Labrats https://bit.ly/2ZdhsHa
+BostonSynbio: A BOSlab Space https://bit.ly/3gqBe86
+BioSciResearch https://bit.ly/2HRMGgR
+Biotech Hub https://bit.ly/3dMs4CJ
+Microscopy https://discord.me/microscopy
+Neuroscience https://bit.ly/31jYPBj
+Psychology Den https://bit.ly/3l4AHKH
+Chemical Engineering https://bit.ly/3aCDgjG
+Mathematics https://discord.sg/math
+Statistics https://bit.ly/3d28UYR
+Physics https://discord.sg/physics
+Chemistry https://discord.sg/chemistry
+Organic Chemistry https://bit.ly/2UDjAop
+Computer Science https://discord.sg/cs 
+Spacecord https://discord.me/spacecord
+BioCord : https://discord.gg/biology
+ 
+ThisGloriousClockwork @clockworkshow: https://www.youtube.com/c/ThisGloriousClockwork/
+TheBrainyHeart @legend4118: https://www.youtube.com/c/TheBrainyHeart
+
+Other Biology Youtube Channels
+Hussain Biology: https://www.youtube.com/hussainbiologyshabir
+AK Lectures: https://www.youtube.com/channel/UCFJyaHVyWKb2y-HkIAEPIdA
+Amoeba Sisters: https://www.youtube.com/user/AmoebaSisters
+NDSU Virtual Cell Animations project: https://www.youtube.com/user/ndsuvirtualcell
+Kurzgesagt: https://www.youtube.com/user/Kurzgesagt/
+Neuroscientifically Challenged: https://www.youtube.com/c/Neuroscientificallychallenged
+MoleCluesTV: https://www.youtube.com/user/MoleCluesTV/
+Microcosmos: https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g
+FrancisCheeFilms: https://www.youtube.com/user/francischeefilms/
+Global ImmunoTalks: https://www.youtube.com/channel/UCXn0yDml_W6c8cj_hDbWK3Q
+Engineering Biology Research Consortium: https://www.youtube.com/channel/UC82AH8hEFsV0exAyZ5RuEz
+
+Biology Youtube Playlists
+CrashCourse Biology: https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF
+Standford (Human Behavioral Biology): https://www.youtube.com/playlist?list=PL848F2368C90DDC3D
+OpenStax (Anatomy and Physiology): https://www.youtube.com/playlist?list=PLLSSBH9xYEpqq24W0lePcPXvKl127xfzj
+
+Online Courses and Resources
+Khan Academy: https://www.khanacademy.org/science/biology
+Bozeman Science (High School Oriented):  http://www.bozemanscience.com/
+MIT Blossoms (High School Oriented): https://blossoms.mit.edu/
+CK12 (High School Oriented): https://www.ck12.org/c/biology/
+MIT OpenCourseware: https://ocw.mit.edu/courses/biology/
+EDX Intro to Biology: https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3
+iBiology: https://www.ibiology.org/
+BiteSizeBio: https://bitesizebio.com/
+Hand-Written Tutorials: http://handwrittentutorials.com/
+
+Other Biology Youtube Channels
+Hussain Biology: https://www.youtube.com/hussainbiologyshabir
+AK Lectures: https://www.youtube.com/channel/UCFJyaHVyWKb2y-HkIAEPIdA
+Amoeba Sisters: https://www.youtube.com/user/AmoebaSisters
+NDSU Virtual Cell Animations project: https://www.youtube.com/user/ndsuvirtualcell
+Kurzgesagt: https://www.youtube.com/user/Kurzgesagt/
+Neuroscientifically Challenged: https://www.youtube.com/c/Neuroscientificallychallenged
+MoleCluesTV: https://www.youtube.com/user/MoleCluesTV/
+Microcosmos: https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g
+FrancisCheeFilms: https://www.youtube.com/user/francischeefilms/
+Global ImmunoTalks: https://www.youtube.com/channel/UCXn0yDml_W6c8cj_hDbWK3Q
+Engineering Biology Research Consortium: https://www.youtube.com/channel/UC82AH8hEFsV0exAyZ5RuEz
+
+
+Databases
+Interactive Pathway Maps: http://biochemical-pathways.com/#/map/1
+Digizyme Molecular Landscapes: http://www.digizyme.com/cst_landscapes.html
+IAU World Higher Education Database: http://www.whed.net/home.php
+ATCC Mycology Culture Guide: https://www.atcc.org/~/media/PDFs/Culture%20Guides/Mycology_Guide.ashx
+
+Research and Reference Managers
+PubMed https://www.ncbi.nlm.nih.gov/pubmed/
+Zotero https://www.zotero.org/
+Sciwheel https://sciwheel.com/
+Endnote https://endnote.com/
+BibTex http://www.bibtex.org/
+Mendeley https://www.mendeley.com/
+
+Other Software
+Free Presentation Assets: https://smart.servier.com/
+BioRender: https://biorender.com/
+LabHacks (App for wet lab tools, including dilution calculators, timers, cell counting, PCR, buffers etc):
+https://play.google.com/store/apps/details?id=com.chrostudios.labhacks&hl=es
+https://apps.apple.com/us/app/lab-hacks/id1462593060
+Researcher (app for personalized feed from journals and research interests): https://www.researcher-app.com/
+Epilepsy Blocker https://www.epilepsyblocker.com/
