@@ -1,5 +1,7 @@
-## Modern Societies and Collective Pyschology : Portions of Human Behaviour will overlap
+## Modern Societies
 
 ---
 
-Philip Zembardo 
+## Diversity
+
+## Inequality and Social Mobility

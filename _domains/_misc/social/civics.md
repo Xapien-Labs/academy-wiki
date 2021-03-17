@@ -1,1 +1,0 @@
-## Main events only, country agnostic 
