@@ -16,7 +16,7 @@
 # Curated Pathway to Learning:
 
 ## Math
-
+- [Patterns of Problem Solving by Arthur Angel](http://www.salvemini.na.it/om/docs/engel.pdf)
 - [📖 A mathematician's apology (1940)](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
 - [📕 Handbook of mathematics (1945)](http://www.goodreads.com/book/show/1904487.Handbook_of_Mathematics)
 - [📕 Fantasia mathematica (1958)](http://www.goodreads.com/book/show/74703.Fantasia_Mathematica)
