@@ -222,6 +222,8 @@
     - [Culture](_domains/_misc/social/social.md)
   - [Religious Studies](_domains/_misc/social/religiousstudies.md)
   - [Cultural Engineering](_domains/_misc/social/culture.md)
+  - [Psychology](_domains/_misc/social/pyschology.md)
+
 
 - [16. Law](_domains/_misc/_law/law.md)
 
