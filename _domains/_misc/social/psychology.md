@@ -1,7 +1,9 @@
-### Cognitive Distortions
+1. Positivity : Cognitive Distortions
 
-### Teens and Brain : Novelty, Reward-seeking, Risk-taking Behaviours
+2. Teens and Brain : Novelty, Reward-seeking, Risk-taking Behaviours
 
-### Addictions : Dopamine, Inhibitory Mechanisms, Reward Mechanisms Hijacking, Pornography and Compulsions
+3. Addictions : Dopamine, Inhibitory Mechanisms, Reward Mechanisms Hijacking
 
-### Child Pyschology, Bullying, Abuse, Harassment and Behavior
+4. Wellness : Health, Pornography etc. 
+
+5. Child Pyschology, Bullying, Abuse, Harassment and Behavior
