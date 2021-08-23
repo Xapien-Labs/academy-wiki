@@ -1,7 +1,7 @@
-## Modern Societies
-
 ---
 
-## Diversity
+### Capitalism : Wealth Capture/Rent-Seeking Behaviours
 
-## Inequality and Social Mobility
+### Inequality & Social Mobility
+
+### Automation and Future of Work
