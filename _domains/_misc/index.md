@@ -1,13 +1,7 @@
-# Curated Pathway to Learning:
+### Finance
 
-# Finance
+### Literature/Writing
 
-# Literature/Writing
+### Economics
 
-# Economics
-
-# Reading :
-
-# Life :
-
-<!-- Where  to Start from  -->
+### Reading
