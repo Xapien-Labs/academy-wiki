@@ -1,1 +1,0 @@
-## Engineering Culture through Technology
