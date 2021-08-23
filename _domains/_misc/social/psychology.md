@@ -4,6 +4,6 @@
 
 3. Addictions : Dopamine, Inhibitory Mechanisms, Reward Mechanisms Hijacking
 
-4. Wellness : Health, Pornography etc. 
+4. Wellness : Pleasure, Selecting Partners, Repairing Relationships etc.
 
 5. Child Pyschology, Bullying, Abuse, Harassment and Behavior
