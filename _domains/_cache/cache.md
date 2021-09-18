@@ -2,7 +2,15 @@
 
 Chemistry: Batteries, Solar Cell, BioChemistry
 Bio: Curiosity, Diseases, Medicine/Care, Anti-Aging, Proteins, Synthetics
-Physics: Rockets/Space, Optics/Photonics, Curiosity, Mathematics: Nearly None - As a Baseline. Low Practical Fields: Economics (Mostly easy), Law, Finance. CS, AI: Known. EE: Moore and other Trends. Mech: Flying Vehicles, Electric, RPA. Civil: Tools Available, Only good for Megaprojects. EE (Power), Chem Eng: Industrial Processes for Creating (Old Knowledge). BioTech: Same as Bio. Philosophy: Good for a past time. Others are not that impactful.
+Physics: Rockets/Space, Optics/Photonics, Curiosity 
+Mathematics: Nearly None - As a Baseline. 
+Low Practical Fields: Economics (Mostly easy), Law, Finance. 
+CS, AI: Known. 
+EE: Moore and other Trends. 
+Mech: Flying Vehicles, Electric, RPA. 
+Civil: Tools Available, Only good for Megaprojects. 
+EE (Power), Chem Eng: Industrial Processes for Creating (Old Knowledge). BioTech: Same as Bio. 
+Philosophy: Good for a past time. Others are not that impactful.
 Architecture, Environmental Eng., Material Science
 
 Calculus
