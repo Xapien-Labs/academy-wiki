@@ -1,5 +1,3 @@
-
-
 - Calculus
 - Linear Algebra
 - Probability and Statistics

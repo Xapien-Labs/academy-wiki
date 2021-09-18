@@ -1,3 +1,3 @@
 # RPA
 
-Youtube playlists : industrial, home and food robotics 
+Youtube playlists : Industrial, Home and Food Robotics 

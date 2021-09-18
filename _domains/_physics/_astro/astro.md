@@ -2,12 +2,12 @@
 
 ---
 
-### Titan :
+- Titan :
 
-### Asteriod Mining :
+- Asteriod Mining :
 
-### Small Sattelites :
+- Small Sattelites :
 
-### Mars Habitat :
+- Mars Habitat :
 
-### Universe Exploration : Stellaris (Federations, Utopia), Surviving Mars (Games : Colony Builder, Green Planet, First Colony, Terraforming, Robots), Expanse
+- Universe Exploration : Stellaris (Federations, Utopia), Surviving Mars (Games : Colony Builder, Green Planet, First Colony, Terraforming, Robots), Expanse
