@@ -16,7 +16,6 @@
 * [2. Mathematics](_domains/_maths/maths.md)
 
   - [Basic](_domains/_maths/_basic/basic.md)
-    - [Information Theory](_domains/_maths/_basic/basic.md)
   - [Logic&Reasoning](_domains/_maths/logic.md)
   - [Research](_domains/_maths/advanced.md)
 
@@ -129,16 +128,14 @@
     - [2D Materials and Graphene](_domains/_eng/_materials/materials.md)
     - [MXenes](_domains/_eng/_materials/materials.md)
 
-  - [Miscellaneous](_domains/_eng/_misc/misc.md)
-
-    - [3D-Printing](_domains/_eng/_misc/misc.md)
-    - [Biomedical Engineering](_domains/_eng/_misc/misc.md)
-    - [Civil Engineering](_domains/_eng/_misc/misc.md)
-    - [Mechanical Engineering](_domains/_eng/_misc/misc.md)
-    - [Photonics](_domains/_eng/_misc/misc.md)
-    - [Aerospace Engineering](_domains/_eng/_misc/misc.md)
-    - [Electrical and Power Engineering](_domains/_eng/_misc/misc.md)
-    - [Geological Engineering](_domains/_environment/climate.md)
+  - [3D-Printing](_domains/_eng/_misc/misc.md)
+  - [Biomedical Engineering](_domains/_eng/_misc/misc.md)
+  - [Civil Engineering](_domains/_eng/_misc/misc.md)
+  - [Mechanical Engineering](_domains/_eng/_misc/misc.md)
+  - [Photonics](_domains/_eng/_misc/misc.md)
+  - [Aerospace Engineering](_domains/_eng/_misc/misc.md)
+  - [Electrical and Power Engineering](_domains/_eng/_misc/misc.md)
+  - [Geological Engineering](_domains/_environment/climate.md)
 
   - [Robotics](_domains/_eng/_robotics/robotics.md)
 
@@ -158,6 +155,7 @@
 
   - [Telecommunications industry](_domains/_telecom/telecom.md)
     - [5G, 4G and LTE](_domains/_telecom/telecom.md)
+
   - [Skills](_domains/_eng/eng.md)
 
 * [9. Earth Sciences and Environment](_domains/_environment/environment.md)
