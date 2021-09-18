@@ -2,13 +2,8 @@
 
 # Finance
 
-# Just Curious
-
 # Basic
-
 # Advanced Stuff
-
-<!-- Where  to Start from  -->
 
 Bodie, Zvi, and Robert C. Merton. Finance, Upper Saddle River, New Jersey: Prentice Hall, 2000.
 

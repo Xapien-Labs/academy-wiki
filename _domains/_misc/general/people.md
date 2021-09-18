@@ -24,7 +24,7 @@ Edward Witten
 Alan Guth
 
 Cathie Wood
-Koch Brothers
+Charles Koch
 
 John Oliver
 

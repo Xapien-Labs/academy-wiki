@@ -1,7 +1,7 @@
 ---
 
-### Capitalism : Wealth Capture/Rent-Seeking Behaviours
+- Capitalism : Wealth Capture/Rent-Seeking Behaviours
 
-### Inequality & Social Mobility
+- Inequality & Social Mobility
 
-### Automation and Future of Work
+- Automation and Future of Work

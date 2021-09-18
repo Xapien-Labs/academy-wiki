@@ -1,7 +1,7 @@
-### Finance
+- Finance
 
-### Literature/Writing
+- Literature/Writing
 
-### Economics
+- Economics
 
-### Reading
+- Reading

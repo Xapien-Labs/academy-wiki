@@ -1,11 +1,11 @@
-### Classical Mechanics :
+- Classical Mechanics :
 
-### Fluid Mechanics :
+- Fluid Mechanics :
 
-### Quantum Mechanics :
+- Quantum Mechanics :
 
-### Thermodynamics :
+- Thermodynamics :
 
-### Gravitation :
+- Gravitation :
 
-### Electricity and Magnetism : Griffiths
+- Electricity and Magnetism : Griffiths
