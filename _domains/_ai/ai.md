@@ -4,5 +4,5 @@
 - Vision
 - NLP
 - RL
-- Casuality
+- Causality
 - Robotics
