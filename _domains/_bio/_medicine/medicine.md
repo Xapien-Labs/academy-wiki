@@ -13,6 +13,7 @@ Edition: 7th
 Publisher: McGraw-Hill
 Recommended
 Available Electronically
+
 Title: Resolving Ethical Dilemmas: A Guide for Clinicians
 Author: Lo, Bernard
 ISBN: 978-1-4511-7640-7, 1-4511-7640-6
@@ -56,8 +57,6 @@ Recommended
 
 ### Nutrition
 
-• No textbooks
-
 ### Organ Systems: The Renal System
 
 ### Renal
@@ -69,6 +68,7 @@ Edition: 4th
 Publisher: Lippincott Williams & Wilkins
 Recommended
 Print and Electronic Copies Available
+
 Title: Robbins & Cotran Pathologic Basis of Disease
 Author: Kumar, V., A.K. Abbas, & Aster, J.C.
 ISBN: 9781455726134
@@ -76,6 +76,7 @@ Edition: 9th
 Publisher: Saunders
 Recommended
 Print and Electronic Copies Available
+
 Title: Ganong's Review of Medical Physiology
 Author: Barrett, K.E., Boitano, S.M., Barman, S.M., & Brooks, H.L.
 ISBN: 978-0-07-178003-2
@@ -92,12 +93,14 @@ ISBN: 9780781757485
 Edition: 1st
 Suggested
 Print Copies Available
+
 Title: Ganong's Review of Medical Physiology
 Author: Barrett, K.E., Boitano, S.M., Barman, S.M., & Brooks, H.L.
 Publisher: McGraw-Hill Medical
 ISBN: 978-0-07-178003-2
 Edition: 26th
 Recommended
+
 Title: Pulmonary Pathophysiology: the Essentials
 Author: West, J.B.
 Publisher: Lippincott Williams & Wilkins
@@ -105,6 +108,7 @@ ISBN: 9781451107135
 Edition: 9th
 Suggested
 Print and Electronic Copies Available
+
 Title: Respiratory Physiology: the Essentials
 Author: West, J.B.
 Publisher: Lippincott Williams & Wilkins
@@ -112,6 +116,7 @@ ISBN: 1609136403, 9781609136406
 Edition: 10th
 Suggested
 Print Copies Available
+
 Title: Nunn’s Applied Respiratory Physiology
 Author: Lumb, A.
 Publisher: Elsevier
@@ -119,6 +124,7 @@ ISBN: 978-0-7020-6294-0
 Edition: 8th
 Suggested
 Available Electronically
+
 Organ Systems: The Cardiovascular System
 
 ### Cardiovascular

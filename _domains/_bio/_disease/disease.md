@@ -1,7 +1,7 @@
-## Cardiovascular Disease 
-## Diabetes 
-## Infectious Disease and Microbiome
-## Kidney Disease  
-## Obesity 
-## Psychiatric Disease  
-## Rare Diseases
+- Cardiovascular Disease 
+- Diabetes 
+- Infectious Disease and Microbiome
+- Kidney Disease  
+- Obesity 
+- Psychiatric Disease  
+- Rare Diseases

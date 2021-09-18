@@ -1,7 +1,7 @@
-## Fashion Design
+- Fashion Design
 
-## Interior Design
+- Interior Design
 
-## Product Design
+- Product Design
 
-## Hotel Management
+- Hotel Management

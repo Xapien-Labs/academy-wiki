@@ -1,30 +1,32 @@
-## BioInformatics
+- BioInformatics
 
-## Genetic Perturbation
+- Genetic Perturbation
 
-## Genomics
+- Genomics
 
-## Imaging
+- Imaging
+
 https://ocw.mit.edu/courses/health-sciences-and-technology/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/ | Magnetic Resonance Analytic, Biochemical, and Imaging Techniques | Health Sciences and Technology | MIT OpenCourseWare
 
-## Metabolomics
+- Metabolomics
 
-## Proteomics
+- Proteomics
 
-## 3D Printing of Organs
+- 3D Printing of Organs
 
-## AI-Based
+- AI-Based
 
-### Search for Small Molecules 
+- Search for Small Molecules 
 
-### Protein Structure Prediction 
+- Protein Structure Prediction 
 
-### Segmentation/Detection 
+- Segmentation/Detection 
 
-## Laboratory Automation 
+- Laboratory Automation 
 
-## Systems Biology 
- iPS cells
+- Systems Biology 
+
+iPS cells
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204236/ | Clinical Chemistry Laboratory Automation in the 21st Century - Amat Victoria curam (Victory loves careful preparation)
 https://en.wikipedia.org/wiki/Laboratory_automation | Laboratory automation - Wikipedia
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5681851/ | Indicators for the use of robotic labs in basic biomedical research: a literature analysis
@@ -41,10 +43,10 @@ Protein Structure Prediction
 
 Segmentation/Detection
 
-## NanoTechnology
+- NanoTechnology
 
-### NanoMotors
+- Nanomotors
 
-### Laboratory Automation
+- Laboratory Automation
 
 non-invasive surgery, better imaging and better equipment required in medicine and more psychological care

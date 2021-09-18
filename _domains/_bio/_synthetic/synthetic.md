@@ -1,3 +1,3 @@
-### Gingko Bioworks
+- Gingko Bioworks
 
-## CRISPR-Cas9
+- CRISPR-Cas9
