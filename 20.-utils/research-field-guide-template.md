@@ -1,0 +1,2 @@
+# Research Field Guide Template
+

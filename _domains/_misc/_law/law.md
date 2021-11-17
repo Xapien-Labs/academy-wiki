@@ -1,4 +1,4 @@
-## Contracts — Torts — Procedure — Real Estate — Criminal — Evidence.
+# 16. Law
 
 Contract law teaches the basic principles that underlie individual interactions. The ideas of competent parties, meetings of the mind, and consideration are taught and then have application across a wide variety of other sub-specialties, from banking to buying and selling a house.
 
@@ -14,23 +14,17 @@ Evidence which isn’t usually taught the first year, brings in another layer, i
 
 In civil law legal system (aka Roman law), main branches are Private law and Public law.
 
-Private law deals with interactions between individuals. And it contains civil law, law of obligations, commercial law and international private law.
-Public law, on the other hand, deals with interrelations between the state and the general population. And it contains constitutional law, penal law, administrative law, tax law and international law.
-There is also a third branch, which is like a mix of public law and private law: employment law, enforcement and bankruptcy law.
+Private law deals with interactions between individuals. And it contains civil law, law of obligations, commercial law and international private law. Public law, on the other hand, deals with interrelations between the state and the general population. And it contains constitutional law, penal law, administrative law, tax law and international law. There is also a third branch, which is like a mix of public law and private law: employment law, enforcement and bankruptcy law.
 
----
+## Criminal
 
-### Criminal
+## Corporate
 
-### Corporate
+## Civil : Family Law
 
-### Civil : Family Law
+## Cyber
 
-### Cyber
-
-### Administrative
-
----
+## Administrative
 
 1. Key Issues : Death Penalty, Police Brutality, Justice System Reforms in India
 

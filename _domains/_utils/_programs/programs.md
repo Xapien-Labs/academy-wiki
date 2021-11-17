@@ -1,62 +1,43 @@
-### HighSchoolX or SecondaryX 
+# Programs
+
+### HighSchoolX or SecondaryX
 
 ### Seminars
 
----
-
 ### BachelorsX
-
----
 
 What modules should be completed, to qualify for these ?
 
-- Biology :
-- Chemistry :
-- Physics :
-- Mathematics :
-- CS :
-- AI :
-- Eng :
-  - Mech :
-  - Civil :
-  - Aerospace
-  - Electrical and Power
-  - Electronics
-  - Materials Science
-- Finance
-- Accounting
-- Economic Analysis and Policy
-
----
+* Biology :
+* Chemistry :
+* Physics :
+* Mathematics :
+* CS :
+* AI :
+* Eng :
+  * Mech :
+  * Civil :
+  * Aerospace
+  * Electrical and Power
+  * Electronics
+  * Materials Science
+* Finance
+* Accounting
+* Economic Analysis and Policy
 
 ### MastersX
 
----
-
 ### PhDX
-
----
 
 Publications/sThesis
 
 ### Medicine
 
----
-
 ### General Requirements
-
----
 
 WAY-A-IR: Aesthetic and Interpretive Inquiry
 
-WAY-AQR: Applied Quantitative Reasoning
-WAY-FR: Formal Reasoning
-WAY-SMA: Scientific Method and Analysis
-DB-EngrAppSci: Engineering and Applied Sciences
-EC-GlobalCom: Global Community
-EC-EthicReas: Ethical Reasoning
-
----
+WAY-AQR: Applied Quantitative Reasoning WAY-FR: Formal Reasoning WAY-SMA: Scientific Method and Analysis DB-EngrAppSci: Engineering and Applied Sciences EC-GlobalCom: Global Community EC-EthicReas: Ethical Reasoning
 
 ## School of Architecture and Planning
 
@@ -178,19 +159,13 @@ Computer Science, Economics, and Data Science (Course 6-14)
 
 Urban Science and Planning with Computer Science (Course 11-6)
 
-<!-- Graduate Programs -->
+School of Architecture and Planning Art, Culture and Technology (SMACT)
 
-School of Architecture and Planning
-Art, Culture and Technology (SMACT)
+School of Engineering Electrical Engineering and Computer Science (Course 6-P)
 
-School of Engineering
-Electrical Engineering and Computer Science (Course 6-P)
+School of Humanities, Arts, and Social Sciences Data, Economics, and Development Policy
 
-School of Humanities, Arts, and Social Sciences
-Data, Economics, and Development Policy
-
-Interdisciplinary Programs
-Computation and Cognition (Course 6-9P)
+Interdisciplinary Programs Computation and Cognition (Course 6-9P)
 
 Computer Science and Molecular Biology (Course 6-7P)
 
@@ -202,4 +177,4 @@ Technology and Policy
 
 Transportation
 
-http://timroughgarden.org/
+[http://timroughgarden.org/](http://timroughgarden.org)

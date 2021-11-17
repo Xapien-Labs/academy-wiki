@@ -1,39 +1,27 @@
-### Sertuins, NAD+ Boosters
+# Aging
 
+## Sertuins, NAD+ Boosters
 
+## Companies
 
-### Companies
+Spring Discovery Spring Discovery is accelerating the discovery of therapies for aging by targeting the biological processes of aging itself.
 
+Precision BioSciences A genome editing company dedicated to improving life through the application of its proprietary ARCUS® genome editing platform.
 
-Spring Discovery
-Spring Discovery is accelerating the discovery of therapies for aging by targeting the biological processes of aging itself.
+Deciduous Therapeutics An aging therapeutics company developing a novel class of immune modulatory therapies to promote healthy lifespan.
 
-Precision BioSciences
-A genome editing company dedicated to improving life through the application of its proprietary ARCUS® genome editing platform.
+Yumanity Therapeutics A biotechnology company that transforms drug discovery for diseases caused by protein misfolding.
 
-Deciduous Therapeutics
-An aging therapeutics company developing a novel class of immune modulatory therapies to promote healthy lifespan.
+Everna A biotech company developing novel therapeutics.
 
-Yumanity Therapeutics
-A biotechnology company that transforms drug discovery for diseases caused by protein misfolding.
+Coral Genomics Coral improves drug development and deployment by utilizing genomic data from patients to determine how they will respond to a drug before they get treated.
 
-Everna
-A biotech company developing novel therapeutics.
+System1 Biosciences Neurotherapeutics company that employs phenotypic screening to discover novel drugs for complex neurological and psychiatric diseases such as epilepsy, autism, and schizophrenia, disorders for which current discovery techniques have proved least successful.
 
-Coral Genomics
-Coral improves drug development and deployment by utilizing genomic data from patients to determine how they will respond to a drug before they get treated.
+Decibel Therapeutics Hearing company focused on discovering and developing new medicines to protect, repair and restore hearing.
 
-System1 Biosciences
-Neurotherapeutics company that employs phenotypic screening to discover novel drugs for complex neurological and psychiatric diseases such as epilepsy, autism, and schizophrenia, disorders for which current discovery techniques have proved least successful.
+Metacrine Focused on developing innovative drugs that materially benefit patients with liver and gastrointestinal diseases.
 
-Decibel Therapeutics
-Hearing company focused on discovering and developing new medicines to protect, repair and restore hearing.
+Navitor Pharmaceuticals Navitor is pioneering the selective targeting of mTORC1 activity to develop a new class of medicines for age-related diseases to improve human health.
 
-Metacrine
-Focused on developing innovative drugs that materially benefit patients with liver and gastrointestinal diseases.
-
-Navitor Pharmaceuticals
-Navitor is pioneering the selective targeting of mTORC1 activity to develop a new class of medicines for age-related diseases to improve human health.
-
-Unity Biotechnology
-Unity Biotechnology, Inc. designs therapeutics that prevent, halt, and reverse various diseases of aging.
+Unity Biotechnology Unity Biotechnology, Inc. designs therapeutics that prevent, halt, and reverse various diseases of aging.
