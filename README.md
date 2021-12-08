@@ -1,2 +1,4 @@
-# Introduction
+# A Knowledge Academic Wiki 📚 : globalacademy.xyz
+
+---
 

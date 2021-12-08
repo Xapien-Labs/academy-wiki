@@ -1,39 +1,39 @@
-# 7. Computer Science
+# Progress Tracking :
 
-## Progress Tracking :
+# Promising Areas :
 
-## Promising Areas :
-
-### What is the criteria ?
+## What is the criteria ?
 
 1. Acceleration of Research Possible
 2. Impactful and Feasible
 3. Interest from Startups and VCs
 4. Ranking based on a Calculated Score
 
-## Domains
+##
 
-* [Tools](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Data Science](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Programming Languages](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Data Structures](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Algorithms](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Computer Architecture](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Operating Systems](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Compilers](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Databases](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Networking](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Distributed Systems](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Computer Graphics](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Theory Automata](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Cloud Computing](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_cs/cs.md)
-* [Quantum Computing](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_misc/misc.md)
-* [Crytography](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_misc/misc.md)
-* [Blockchain Landscape](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_misc/misc.md)
-* [Software Development](https://github.com/Xapien-Labs/academy-wiki/tree/e8e486eb2b170cc410a62493dccc701fff36958d/\_domains/\_eng/\_cs/\_domains/\_eng/\_misc/misc.md)
+# Domains
 
-## Big Goals of the Domains :
+- [Tools](_domains/_eng/_cs/cs.md)
+- [Data Science](_domains/_eng/_cs/cs.md)
+- [Programming Languages](_domains/_eng/_cs/cs.md)
+- [Data Structures](_domains/_eng/_cs/cs.md)
+- [Algorithms](_domains/_eng/_cs/cs.md)
+- [Computer Architecture](_domains/_eng/_cs/cs.md)
+- [Operating Systems](_domains/_eng/_cs/cs.md)
+- [Compilers](_domains/_eng/_cs/cs.md)
+- [Databases](_domains/_eng/_cs/cs.md)
+- [Networking](_domains/_eng/_cs/cs.md)
+- [Distributed Systems](_domains/_eng/_cs/cs.md)
+- [Computer Graphics](_domains/_eng/_cs/cs.md)
+- [Theory Automata](_domains/_eng/_cs/cs.md)
+- [Cloud Computing](_domains/_eng/_cs/cs.md)
+- [Quantum Computing](_domains/_eng/_misc/misc.md)
+- [Crytography](_domains/_eng/_misc/misc.md)
+- [Blockchain Landscape](_domains/_eng/_misc/misc.md)
+- [Software Development](_domains/_eng/_misc/misc.md)
 
-## Curated Pathway to Learning :
+# Big Goals of the Domains :
+
+# Curated Pathway to Learning :
 
 Top Papers : [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)

@@ -1,13 +1,11 @@
-# Miscellaneous
+# Animal Husbandry
 
-## Animal Husbandry
+# Zoology
 
-## Zoology
+# Agronomy and Crop Science
 
-## Agronomy and Crop Science
+https://github.com/beaorn/awesome-agriculture
 
-[https://github.com/beaorn/awesome-agriculture](https://github.com/beaorn/awesome-agriculture)
+https://github.com/MarceloAlves/awesome-agtech
 
-[https://github.com/MarceloAlves/awesome-agtech](https://github.com/MarceloAlves/awesome-agtech)
-
-[https://github.com/goru001/awesome-agriculture](https://github.com/goru001/awesome-agriculture)
+https://github.com/goru001/awesome-agriculture
