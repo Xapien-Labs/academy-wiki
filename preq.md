@@ -1,0 +1,3 @@
+- Prequisites
+    - Middle School/ High-School : Khan Academy  
+    - Standardized Tests : SAT/GRE
