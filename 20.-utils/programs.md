@@ -1,22 +1,18 @@
 # Programs
 
-### HighSchoolX or SecondaryX
-
 ### Seminars
 
-### BachelorsX
+###
 
-What modules should be completed, to qualify for these ?
-
-* Biology :
-* Chemistry :
-* Physics :
-* Mathematics :
-* CS :
-* AI :
-* Eng :
-  * Mech :
-  * Civil :
+* Biology&#x20;
+* Chemistry
+* Physics&#x20;
+* Mathematics&#x20;
+* CS&#x20;
+* AI&#x20;
+* Eng&#x20;
+  * Mech&#x20;
+  * Civil&#x20;
   * Aerospace
   * Electrical and Power
   * Electronics
@@ -25,19 +21,21 @@ What modules should be completed, to qualify for these ?
 * Accounting
 * Economic Analysis and Policy
 
-### MastersX
+Aesthetic and Interpretive Inquiry
 
-### PhDX
+Applied Quantitative Reasoning&#x20;
 
-Publications/sThesis
+Formal Reasoning&#x20;
 
-### Medicine
+Scientific Method and Analysis&#x20;
 
-### General Requirements
+Engineering and Applied Sciences&#x20;
 
-WAY-A-IR: Aesthetic and Interpretive Inquiry
+Global Community
 
-WAY-AQR: Applied Quantitative Reasoning WAY-FR: Formal Reasoning WAY-SMA: Scientific Method and Analysis DB-EngrAppSci: Engineering and Applied Sciences EC-GlobalCom: Global Community EC-EthicReas: Ethical Reasoning
+
+
+## School of Medicine
 
 ## School of Architecture and Planning
 

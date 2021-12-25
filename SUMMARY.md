@@ -208,5 +208,3 @@
   * [Language](literature/literature-1.md)
 * [20. Utils](20.-utils/README.md)
   * [Programs](20.-utils/programs.md)
-  * [Job Paths and Career Guide](20.-utils/job-paths-and-career-guide.md)
-  * [Research Field Guide Template](20.-utils/research-field-guide-template.md)
