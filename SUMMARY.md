@@ -34,7 +34,7 @@
     * [Neuroscience](bio/classic/neuro.md)
     * [Biophysics](bio/classic/physics.md)
     * [Miscellaneous](bio/classic/misc/README.md)
-      * [Epidemiology](bio/classic/misc/misc.md)
+    * [Epidemiology](bio/classic/misc/misc.md)
   * [Disease](bio/disease/README.md)
     * [Cancer](bio/disease/cancer.md)
   * [Medicine](bio/medicine/README.md)
