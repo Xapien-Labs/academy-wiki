@@ -1,9 +1,9 @@
 # Biotech
 
 * BioInformatics
-* Genetic Perturbation
 * Genomics
 * Imaging
+* Synthetic
 
 [https://ocw.mit.edu/courses/health-sciences-and-technology/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/) | Magnetic Resonance Analytic, Biochemical, and Imaging Techniques | Health Sciences and Technology | MIT OpenCourseWare
 

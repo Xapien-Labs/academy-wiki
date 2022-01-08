@@ -44,7 +44,6 @@
     * [Methods](bio/medicine/methods.md)
     * [Practice](bio/medicine/practice.md)
     * [Misc](bio/medicine/misc.md)
-  * [Synthetic Biology](bio/synthetic.md)
   * [Biotech](bio/tech.md)
   * [Therapeutics](bio/therapeutics.md)
   * [Methods](bio/methods/README.md)
