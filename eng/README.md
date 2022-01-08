@@ -8,19 +8,10 @@
     https//www.youtube.com/c/PracticalEngineeringChannel/playlists
 
     https//www.youtube.com/c/RealEngineering/playlists
-*   Chemical Engineering
-
-    Rate of Innovation Slow
-
-    Potential of Innovation Low
-
-    Available Jobs
-*   Electrical (Machines and Power)
-
-    Rate of Innovation Slow
+* Chemical
+* Electrical (Machines and Power)
 * Telecommunications
 * Semiconductor
-* Quantum Technologies
 * Robotics
 * Hydroponics
 
