@@ -62,15 +62,13 @@ Nursing Obesity
 
 Ophthalmology & Optometry&#x20;
 
-Oral & Maxillofacial Surgery&#x20;
-
 Orthopedic Medicine & Surgery&#x20;
 
 Otolaryngology&#x20;
 
 Pain & Pain Management
 
-&#x20;Pathology&#x20;
+Pathology&#x20;
 
 Pediatric Medicine&#x20;
 
@@ -80,7 +78,7 @@ Pharmacology & Pharmacy
 
 Plastic & Reconstructive Surgery
 
-&#x20;Pregnancy & Childbirth&#x20;
+Pregnancy & Childbirth&#x20;
 
 Primary Health Care&#x20;
 
@@ -96,7 +94,7 @@ Reproductive Health&#x20;
 
 Rheumatology
 
-&#x20;Social Psychology
+Social Psychology
 
 &#x20;Surgery&#x20;
 
