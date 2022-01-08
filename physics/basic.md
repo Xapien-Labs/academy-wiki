@@ -1,11 +1,9 @@
-- Classical Mechanics :
+# Basic
 
-- Fluid Mechanics :
+Mechanics
 
-- Quantum Mechanics :
+Gravitation
 
-- Thermodynamics :
+ElectroMagnetism
 
-- Gravitation :
-
-- Electricity and Magnetism : Griffiths
+Thermodynamics
