@@ -43,7 +43,7 @@
     * [Domains](bio/medicine/domains.md)
     * [Methods](bio/medicine/methods.md)
     * [Practice](bio/medicine/practice.md)
-    * [Miscellaneous](bio/medicine/misc.md)
+    * [Misc](bio/medicine/misc.md)
   * [Synthetic Biology](bio/synthetic.md)
   * [Biotech](bio/tech.md)
   * [Therapeutics](bio/therapeutics.md)
