@@ -74,6 +74,7 @@
   * [Cloud](cs/cs-12.md)
   * [Crytography](cs/misc-1.md)
   * [Software](cs/misc-4.md)
+  * [Hacking : Tools, Password Hacking](cs/misc-4.md)
 * [8. Engineering](eng/README.md)
   * [Build](eng/build/README.md)
     * [Chip Design](eng/build/engine-1.md)
