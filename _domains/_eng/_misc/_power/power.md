@@ -1,1 +1,0 @@
-https://ocw.mit.edu/courses/mechanical-engineering/2-60-fundamentals-of-advanced-energy-conversion-spring-2004/ | Fundamentals of Advanced Energy Conversion | Mechanical Engineering | MIT OpenCourseWare

@@ -1,3 +1,0 @@
-# Basic
-
-Centralized Knowledge Store

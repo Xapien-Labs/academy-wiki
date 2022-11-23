@@ -1,2 +1,0 @@
-# Cultural Engineering
-

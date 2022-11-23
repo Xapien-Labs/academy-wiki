@@ -1,2 +1,0 @@
-# Electrical and Power Engineering
-

@@ -1,2 +1,0 @@
-# HealthCare as a Service
-

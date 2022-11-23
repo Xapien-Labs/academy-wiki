@@ -1,2 +1,0 @@
-# Biology, Pharma, Biotechnology, Therapeutics
-
